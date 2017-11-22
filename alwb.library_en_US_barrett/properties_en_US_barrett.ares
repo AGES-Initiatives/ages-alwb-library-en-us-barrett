@@ -1,0 +1,18 @@
+A_Resource_Whose_Name = properties_en_US_barrett
+
+version.designation = "RB"
+version.translator = "Richard Barrett"
+
+version.notice1 = ""
+
+version.copyright1 = "Copyright © 2017 by Richard Barrett"
+version.copyright2 = "Used by permission."
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = "richardtenor@gmail.com"
+
+media.key = "For media only."
