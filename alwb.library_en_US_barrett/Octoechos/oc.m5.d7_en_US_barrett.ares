@@ -600,7 +600,7 @@ octrMA.Kathisma13.text = ""
 
 octrMA.Kathisma14.mode = misc_en_US_barrett.Mode5
 octrMA.Kathisma14.melody = ""
-octrMA.Kathisma14.text = ""
+octrMA.Kathisma14.text = oc.m5.d7_en_US_barrett.ocMA.Kathisma22.text
 
 octrMA.Kathisma1T.mode = misc_en_US_barrett.Mode5
 octrMA.Kathisma1T.melody = ""
