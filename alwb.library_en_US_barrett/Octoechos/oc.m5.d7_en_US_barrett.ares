@@ -560,6 +560,14 @@ ocLI.BeatitudesT.text = ""
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_US_barrett.media.key
 
+ocBK.end.title = ""
+ocBK.end.verse1.text = ""
+ocBK.end.verse2.text = ""
+ocBK.end.verse3.text = ""
+ocBK.end.verse4.text = ""
+ocBK.end.verse5.text = ""
+ocBK.end.verse6.text = ""
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_US_barrett.Mode5
