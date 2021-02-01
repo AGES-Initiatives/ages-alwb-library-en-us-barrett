@@ -41,8 +41,8 @@ meVE.Apolytikion1.mode = misc_en_US_barrett.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_barrett.OYpsotheisEnToStavro.notmetered
 meVE.Apolytikion1.text = ""
 
-meMA.C1Poet = //poets_en_US_barrett.Theofanous
-meMA.C1Acrostic.text = ""
+meMA.C1.poet = //poets_en_US_barrett.Theofanous
+meMA.C1.acrostic = ""
 
 //Mode corrected to Plagal Fourth (PDF says Plagal First)
 
