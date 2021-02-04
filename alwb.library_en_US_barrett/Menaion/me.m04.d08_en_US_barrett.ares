@@ -18,27 +18,33 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_US_barrett.Mode4
 meVE.Stichera01.melody = he.a.m4_en_US_barrett.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.incipit = "O all-acclaimed of the Seventy,"
 meVE.Stichera01.text = "O all-acclaimed of the Seventy, you went out to all lands like swift soaring eagles, and you sowed your august teachings everywhere. You cut away worthless chaff of godless error with divine grace, you cultivated much fruit now stored eternally in the spiritual granaries and preserved in glory by the divine Immortal Vine-Dresser."
 
 meVE.Stichera02.mode = misc_en_US_barrett.Mode4
 meVE.Stichera02.melody = he.a.m4_en_US_barrett.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.incipit = "Let us all praise Herodion,"
 meVE.Stichera02.text = "Let us all praise Herodion, Rufus, Hermes, Agabus, Phlegon, and Asyncritus. They have borne much fruit and are heavy branches of Christ the Vine. They drop to us the sweet soul-saving taste that delights the thirsting hearts of those who with faith and love keep their most solemn, divine, and sacred festival."
 
 meVE.Stichera03.mode = misc_en_US_barrett.Mode4
 meVE.Stichera03.melody = he.a.m4_en_US_barrett.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.incipit = "O honorable Apostles and seers"
 meVE.Stichera03.text = "O honorable Apostles and seers of God, you are foundations of the Church, guides who save the pious, unshakeable towers, peaceful refuges of piety, and ministers of ineffable mysteries past telling. You light the way for our hearts and souls, you have noble and lofty minds, and you were holy heavens that declared the glory of God Who willingly took on flesh."
 
 meVE.SticTheotokion.mode = misc_en_US_barrett.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_US_barrett.OsGennaionEnMartysi.notmetered
+meVE.SticTheotokion.incipit = "O all-pure Mother of our"
 meVE.SticTheotokion.text = "O all-pure Mother of our God, you are blameless and incorrupt, and your great holiness is incomparable. Although I am accursed and all-unclean, and the inventor of terribly evil and disgraceful deeds, do not cast me away, and do not abandon me to death, but save me from passions as I repent."
 
 meVE.SticStavrotheotokion.mode = misc_en_US_barrett.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_barrett.OsGennaionEnMartysi.notmetered
+meVE.SticStavrotheotokion.incipit = "O all-pure Maiden, you wept"
 meVE.SticStavrotheotokion.text = "O all-pure Maiden, you wept bitterly and lamented, and He who took flesh from your womb in a manner surpassing all reason showed you compassion and mercy, and with dew He refreshed your soul when He cried out as your Son: O Mother and Virgin Maiden, stop your weeping. I suffer willingly and will die, but I will rise and glorify those that reverently magnify you."
 
 meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_barrett.Mode1
 meVE.Apolytikion1.melody = he.a.m1_en_US_barrett.ChorosAngelikos.notmetered
+meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1.poet = //poets_en_US_barrett.Iosif
@@ -47,6 +53,7 @@ meMA.C1.acrostic = ""
 meMA.Ode1C1H.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode1C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode1C1H.incipit = he.h.m3_en_US_barrett.OTaYdata.incipit
 meMA.Ode1C1H.text = he.h.m3_en_US_barrett.OTaYdata.text
 
 meMA.C1.title = //titles_en_US_barrett.KanonTonApostolon
@@ -55,227 +62,273 @@ meMA.C1.verse = //prayers_en_US_barrett.verse_Apostles.text
 meMA.Ode1C11.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode1C11.melody = he.h.m3_en_US_barrett.OTaYdata.notmetered
+meMA.Ode1C11.incipit = "Let us celebrate in unison"
 meMA.Ode1C11.text = "Let us celebrate in unison the all-holy memorial of the holy Apostles, and let us sing their praises with joyful souls; for they ask the transcendently holy Word that he grant us forgiveness and mercy."
 
 meMA.Ode1C12.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode1C12.melody = he.h.m3_en_US_barrett.OTaYdata.notmetered
+meMA.Ode1C12.incipit = "O glorious Apostles, you cast"
 meMA.Ode1C12.text = "O glorious Apostles, you cast away the decay of polytheistic insanity, you restored the lost savor to every soul with the divine salt of your teaching, and, thus you presented them, thus restored, to the Creator of all. For this you are glorified."
 
 meMA.Ode1C13.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode1C13.melody = he.h.m3_en_US_barrett.OTaYdata.notmetered
+meMA.Ode1C13.incipit = "Let us bless in song"
 meMA.Ode1C13.text = "Let us bless in song glorious Herodion, Rufus, Agabus, Phlegon, and Hermes; for they are true friends of our Redeemer, divine messengers, and pillars of the faithful."
 
 meMA.Ode1C1T.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode1C1T.melody = he.h.m3_en_US_barrett.OTaYdata.notmetered
+meMA.Ode1C1T.incipit = "O compassionate Theotokos, boast of"
 meMA.Ode1C1T.text = "O compassionate Theotokos, boast of the Apostles, glory of the prizewinners, and security of the faithful, I entreat you steady my mind, since it tossed about by the abuses of the deceiver and downcast with transgressions."
 
 meMA.Ode3C1H.ode = misc_en_US_barrett.Ode3
 meMA.Ode3C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode3C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode3C1H.incipit = he.h.m3_en_US_barrett.OEkMiOnton.incipit
 meMA.Ode3C1H.text = he.h.m3_en_US_barrett.OEkMiOnton.text
 
 meMA.Ode3C11.ode = misc_en_US_barrett.Ode3
 meMA.Ode3C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode3C11.melody = he.h.m3_en_US_barrett.OEkMiOnton.notmetered
+meMA.Ode3C11.incipit = "O divine Disciples of God"
 meMA.Ode3C11.text = "O divine Disciples of God the Word, you were the eyes of the Church, and you opened the eyes of many so that they might behold the incomprehensible beauty."
 
 meMA.Ode3C12.ode = misc_en_US_barrett.Ode3
 meMA.Ode3C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode3C12.melody = he.h.m3_en_US_barrett.OEkMiOnton.notmetered
+meMA.Ode3C12.incipit = "O all-renowned Rufus, you were"
 meMA.Ode3C12.text = "O all-renowned Rufus, you were a luminous house of the Trinity, and you dashed temples to the ground and built churches for the Lord with the word of grace."
 
 meMA.Ode3C13.ode = misc_en_US_barrett.Ode3
 meMA.Ode3C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode3C13.melody = he.h.m3_en_US_barrett.OEkMiOnton.notmetered
+meMA.Ode3C13.incipit = "O wise Rufus, you ploughed"
 meMA.Ode3C13.text = "O wise Rufus, you ploughed hearts with your divine word, you sowed the salvific teachings, and you reaped the salvation of the saved as a great harvest."
 
 meMA.Ode3C1T.ode = misc_en_US_barrett.Ode3
 meMA.Ode3C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode3C1T.melody = he.h.m3_en_US_barrett.OEkMiOnton.notmetered
+meMA.Ode3C1T.incipit = "O immaculate Virgin, he who"
 meMA.Ode3C1T.text = "O immaculate Virgin, he who is unapproachable according to His divine nature I may now approach. He has taken on flesh and is completely united to me in His great compassion."
 
 meMA.Ode3Kathisma1.mode = misc_en_US_barrett.Mode1
 meMA.Ode3Kathisma1.melody = he.a.m1_en_US_barrett.TonTafonSouSotir.notmetered
+meMA.Ode3Kathisma1.incipit = "O brightest proclaimers of God,"
 meMA.Ode3Kathisma1.text = "O brightest proclaimers of God, you were beams shining the light of the Spiritual Sun, you illuminate the whole earth with the rays of your teaching, and you drive off the darkness of ignorance with divine grace. And so on this day of your luminous commemoration, we beam with joy, and in faith we call you blessed."
 
 meMA.Ode3KathismaT.mode = misc_en_US_barrett.Mode1
 meMA.Ode3KathismaT.melody = he.a.m1_en_US_barrett.TonTafonSouSotir.notmetered
+meMA.Ode3KathismaT.incipit = "The end of your life"
 meMA.Ode3KathismaT.text = "The end of your life is at your door, and the Judge draws near. Wake up, my soul, sigh in sorrow, cry out to the Mother of God with your whole heart, and say: Save me, O Virgin, from the terrible torments. O all-immaculate Lady, let me dwell in the place of rest."
 
 meMA.Ode3KathismaSt.mode = misc_en_US_barrett.Mode1
 meMA.Ode3KathismaSt.melody = he.a.m1_en_US_barrett.TonTafonSouSotir.notmetered
+meMA.Ode3KathismaSt.incipit = "O Christ, when the Ewe"
 meMA.Ode3KathismaSt.text = "O Christ, when the Ewe saw You, her own Lamb, hanged on the Cross between two condemned criminals, she wept and she cried out and lamented bitterly: My beloved Child, I beg you to tell me what is this awful sight? You replied, O My Virgin Mother, it is the life of the whole world, as all will recognize."
 
 meMA.Ode4C1H.ode = misc_en_US_barrett.Ode4
 meMA.Ode4C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode4C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode4C1H.incipit = he.h.m3_en_US_barrett.EthouProsImas.incipit
 meMA.Ode4C1H.text = he.h.m3_en_US_barrett.EthouProsImas.text
 
 meMA.Ode4C11.ode = misc_en_US_barrett.Ode4
 meMA.Ode4C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode4C11.melody = he.h.m3_en_US_barrett.EthouProsImas.notmetered
+meMA.Ode4C11.incipit = "O wise Apostles, you brought"
 meMA.Ode4C11.text = "O wise Apostles, you brought divine healing with your words to believers, you gave over to destruction the evil ungodly land, and you edified souls in the Faith. And so, O wise Apostles, you are counted as blessed."
 
 meMA.Ode4C12.ode = misc_en_US_barrett.Ode4
 meMA.Ode4C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode4C12.melody = he.h.m3_en_US_barrett.EthouProsImas.notmetered
+meMA.Ode4C12.incipit = "O blessed Herodion, the city"
 meMA.Ode4C12.text = "O blessed Herodion, the city of Patras is illustriously clothed with strength through you; for you were the first to sit on her throne, shining with the divine luminosities of the Holy Spirit."
 
 meMA.Ode4C13.ode = misc_en_US_barrett.Ode4
 meMA.Ode4C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode4C13.melody = he.h.m3_en_US_barrett.EthouProsImas.notmetered
+meMA.Ode4C13.incipit = "O blessed Herodion, the city"
 meMA.Ode4C13.text = "O blessed Herodion, the city of Patras was rich with you as her representative, since you led her to the exalted Zion. And so, she honors you with divine songs."
 
 meMA.Ode4C1T.ode = misc_en_US_barrett.Ode4
 meMA.Ode4C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode4C1T.melody = he.h.m3_en_US_barrett.EthouProsImas.notmetered
+meMA.Ode4C1T.incipit = "O Maiden that gave birth"
 meMA.Ode4C1T.text = "O Maiden that gave birth to God, at a sacred word you conceived the Father's Word Who redeems humanity from all irrationality. And so we always glorify you with divine words and a great voice."
 
 meMA.Ode5C1H.ode = misc_en_US_barrett.Ode5
 meMA.Ode5C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode5C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode5C1H.incipit = he.h.m3_en_US_barrett.EpiTisGis.incipit
 meMA.Ode5C1H.text = he.h.m3_en_US_barrett.EpiTisGis.text
 
 meMA.Ode5C11.ode = misc_en_US_barrett.Ode5
 meMA.Ode5C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode5C11.melody = he.h.m3_en_US_barrett.EpiTisGis.notmetered
+meMA.Ode5C11.incipit = "O divine Apostles, you preached"
 meMA.Ode5C11.text = "O divine Apostles, you preached the Word Who came to the earth to save what had wandered off, and you delivered all humanity from error."
 
 meMA.Ode5C12.ode = misc_en_US_barrett.Ode5
 meMA.Ode5C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode5C12.melody = he.h.m3_en_US_barrett.EpiTisGis.notmetered
+meMA.Ode5C12.incipit = "O godly-minded Agabus, God poured"
 meMA.Ode5C12.text = "O godly-minded Agabus, God poured out the grace of prophecy on you in a mysterious manner, and you declared revelations of future things."
 
 meMA.Ode5C13.ode = misc_en_US_barrett.Ode5
 meMA.Ode5C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode5C13.melody = he.h.m3_en_US_barrett.EpiTisGis.notmetered
+meMA.Ode5C13.incipit = "O Prophet Agabus, you foretold"
 meMA.Ode5C13.text = "O Prophet Agabus, you foretold deceit, imprisonment, and misfortune to Paul, and you tied your hands with his belt."
 
 meMA.Ode5C1T.ode = misc_en_US_barrett.Ode5
 meMA.Ode5C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode5C1T.melody = he.h.m3_en_US_barrett.EpiTisGis.notmetered
+meMA.Ode5C1T.incipit = "Of all women on earth,"
 meMA.Ode5C1T.text = "Of all women on earth, only you mysteriously gave birth to the only one to reconcile us with the Father and who is alone pre-eternal and without beginning. And so, we only honor you as the Mother of God."
 
 meMA.Ode6C1H.ode = misc_en_US_barrett.Ode6
 meMA.Ode6C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode6C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode6C1H.incipit = he.h.m3_en_US_barrett.AvyssosEschati.incipit
 meMA.Ode6C1H.text = he.h.m3_en_US_barrett.AvyssosEschati.text
 
 meMA.Ode6C11.ode = misc_en_US_barrett.Ode6
 meMA.Ode6C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode6C11.melody = he.h.m3_en_US_barrett.AvyssosEschati.notmetered
+meMA.Ode6C11.incipit = "O divine Apostles, the Word"
 meMA.Ode6C11.text = "O divine Apostles, the Word established as brightly shining lamps to enlighten the world, to end the darkness, and to show the way of salvation."
 
 meMA.Ode6C12.ode = misc_en_US_barrett.Ode6
 meMA.Ode6C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode6C12.melody = he.h.m3_en_US_barrett.AvyssosEschati.notmetered
+meMA.Ode6C12.incipit = "Wise Asyncritus, you were the"
 meMA.Ode6C12.text = "Wise Asyncritus, you were the boast of the Apostles and the wise wall of Hyrcania. You preached the death of the dispassionate Lord, and you led the dead to life."
 
 meMA.Ode6C13.ode = misc_en_US_barrett.Ode6
 meMA.Ode6C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode6C13.melody = he.h.m3_en_US_barrett.AvyssosEschati.notmetered
+meMA.Ode6C13.incipit = "O Asyncritus, You were Hyrcania’s"
 meMA.Ode6C13.text = "O Asyncritus, You were Hyrcania’s river, filled with the currents of the Spirit. You watered Hyrcania with your hallowed streams, she brought forth beautiful shoots for the Master."
 
 meMA.Ode6C1T.ode = misc_en_US_barrett.Ode6
 meMA.Ode6C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode6C1T.melody = he.h.m3_en_US_barrett.AvyssosEschati.notmetered
+meMA.Ode6C1T.incipit = "O Bride of God, the"
 meMA.Ode6C1T.text = "O Bride of God, the ark of the Law was an image of you, since received the Fullness of the divine Law, you gave Him birth in the flesh, after giving birth you remained ever virgin, just as you were before giving birth."
 
 meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
 meMA.Kontakion1.mode = misc_en_US_barrett.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_barrett.TaAnoZiton.notmetered
+meMA.Kontakion1.incipit = ""
 meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_barrett.Ode7
 meMA.Ode7C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode7C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode7C1H.incipit = he.h.m3_en_US_barrett.ToPrinEikoni.incipit
 meMA.Ode7C1H.text = he.h.m3_en_US_barrett.ToPrinEikoni.text
 
 meMA.Ode7C11.ode = misc_en_US_barrett.Ode7
 meMA.Ode7C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode7C11.melody = he.h.m3_en_US_barrett.ToPrinEikoni.notmetered
+meMA.Ode7C11.incipit = "The proclaimers of God firmly"
 meMA.Ode7C11.text = "The proclaimers of God firmly established the nations on the rock of the Faith, and they wisely enlightened those who once worshipped stones in vain."
 
 meMA.Ode7C12.ode = misc_en_US_barrett.Ode7
 meMA.Ode7C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode7C12.melody = he.h.m3_en_US_barrett.ToPrinEikoni.notmetered
+meMA.Ode7C12.incipit = "O sacred Phlegon, you burnt"
 meMA.Ode7C12.text = "O sacred Phlegon, you burnt away the entire thorny tangle of error with divine fire, and you kindled hearts that had been unfortunately quenched with the Spirit’s heat."
 
 meMA.Ode7C13.ode = misc_en_US_barrett.Ode7
 meMA.Ode7C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode7C13.melody = he.h.m3_en_US_barrett.ToPrinEikoni.notmetered
+meMA.Ode7C13.incipit = "O glorious Phlegon, you were"
 meMA.Ode7C13.text = "O glorious Phlegon, you were a great defender, an excellent teacher, a luminary, and a guide for those in Marathon, and they honor you unceasingly,."
 
 meMA.Ode7C1T.ode = misc_en_US_barrett.Ode7
 meMA.Ode7C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode7C1T.melody = he.h.m3_en_US_barrett.ToPrinEikoni.notmetered
+meMA.Ode7C1T.incipit = "O pure and immaculate Mother"
 meMA.Ode7C1T.text = "O pure and immaculate Mother of God, for us you are a new Paradise. Those who died by eating are brought back to life by eating the Tree of Life, which you hold within yourself."
 
 meMA.Ode8C1H.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode8C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode8C1H.incipit = he.h.m3_en_US_barrett.VavyloniaKaminos.incipit
 meMA.Ode8C1H.text = he.h.m3_en_US_barrett.VavyloniaKaminos.text
 
 meMA.Ode8C11.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode8C11.melody = he.h.m3_en_US_barrett.VavyloniaKaminos.notmetered
+meMA.Ode8C11.incipit = "Today let us bless Agabus,"
 meMA.Ode8C11.text = "Today let us bless Agabus, Phlegon, Asyncritus, Rufus, illustrious Hermes, and Herodion, for they were divine Apostles of the Word, lights for the world, and teachers of the nations."
 
 meMA.Ode8C12.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode8C12.melody = he.h.m3_en_US_barrett.VavyloniaKaminos.notmetered
+meMA.Ode8C12.incipit = "The renowned Hermes was the"
 meMA.Ode8C12.text = "The renowned Hermes was the guide and luminary of all Dalmatia. He appeared there like a bright sun, he worked amazing miracles, and he enlightened hearts that had been blind."
 
 meMA.Ode8C13.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode8C13.melody = he.h.m3_en_US_barrett.VavyloniaKaminos.notmetered
+meMA.Ode8C13.incipit = "O glorious Hermes, you carried"
 meMA.Ode8C13.text = "O glorious Hermes, you carried the Word as a bright lamp, you enlightened those who sat in the night of calamities, you performed healings and great signs, and you drew all the unbelievers to the faith."
 
 meMA.Ode8C1Tr.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C1Tr.mode = misc_en_US_barrett.Mode3
 meMA.Ode8C1Tr.melody = he.h.m3_en_US_barrett.VavyloniaKaminos.notmetered
+meMA.Ode8C1Tr.incipit = "As we honor the Trinity,"
 meMA.Ode8C1Tr.text = "As we honor the Trinity, let us glorify the Father and faithfully worship the Son and the Holy Spirit, One Godhead in Three Persons, one in nature, whole and indivisible."
 
 meMA.Ode8C1T.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode8C1T.melody = he.h.m3_en_US_barrett.VavyloniaKaminos.notmetered
+meMA.Ode8C1T.incipit = "O spotless Virgin, we are"
 meMA.Ode8C1T.text = "O spotless Virgin, we are your servants, and you are our protection and unfailing intercessor with your Son and God. O august Lady, save us from dangers and temptations, so that we may always glorify you with faith and zeal."
 
 meMA.Ode9C1H.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C1H.mode = misc_en_US_barrett.Mode3
 meMA.Ode9C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode9C1H.incipit = he.h.m3_en_US_barrett.TinEnVatoKaiPyri.incipit
 meMA.Ode9C1H.text = he.h.m3_en_US_barrett.TinEnVatoKaiPyri.text
 
 meMA.Ode9C11.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C11.mode = misc_en_US_barrett.Mode3
 meMA.Ode9C11.melody = he.h.m3_en_US_barrett.TinEnVatoKaiPyri.notmetered
+meMA.Ode9C11.incipit = "Let us form a most"
 meMA.Ode9C11.text = "Let us form a most sacred choir in faith and harmony of soul, and with fervor let us bless Hermes, Herodion, Rufus, Agabus, the great Asyncritus, and the divine Phlegon, who were eyewitnesses of the Word."
 
 meMA.Ode9C12.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C12.mode = misc_en_US_barrett.Mode3
 meMA.Ode9C12.melody = he.h.m3_en_US_barrett.TinEnVatoKaiPyri.notmetered
+meMA.Ode9C12.incipit = "The proclaimers of God were"
 meMA.Ode9C12.text = "The proclaimers of God were like mystical olive trees, they made our souls and faces cheerful with grace, and they saved us from godless oppression and the darkness of ignorance. And so it is right to call them blessed."
 
 meMA.Ode9C13.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C13.mode = misc_en_US_barrett.Mode3
 meMA.Ode9C13.melody = he.h.m3_en_US_barrett.TinEnVatoKaiPyri.notmetered
+meMA.Ode9C13.incipit = "O wise Apostles of the"
 meMA.Ode9C13.text = "O wise Apostles of the Redeemer, you redeemed us from despair and slavery to the enemy and deceiver of old, and you showed us the paths that lead us to the Heavenly Kingdom with God-inspired certainty."
 
 meMA.Ode9C14.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C14.mode = misc_en_US_barrett.Mode3
 meMA.Ode9C14.melody = he.h.m3_en_US_barrett.TinEnVatoKaiPyri.notmetered
+meMA.Ode9C14.incipit = "O six-branched lamp of holy"
 meMA.Ode9C14.text = "O six-branched lamp of holy disciples, entreat the Three-Sun Splendor with fervor that he light our souls and rescue us from darkness and eternal condemnation, for we observe your radiant memorial."
 
 meMA.Ode9C1T.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C1T.mode = misc_en_US_barrett.Mode3
 meMA.Ode9C1T.melody = he.h.m3_en_US_barrett.TinEnVatoKaiPyri.notmetered
+meMA.Ode9C1T.incipit = "O immaculate and laudable Virgin,"
 meMA.Ode9C1T.text = "O immaculate and laudable Virgin, you were like tongs that carry flame, for you received in your womb the spiritual Coal that burns up our passions, enlightens our souls, and shines light on the darkness of idolatry."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_barrett.media.key
