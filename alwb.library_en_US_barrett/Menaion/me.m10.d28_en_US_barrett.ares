@@ -1,14 +1,14 @@
 A_Resource_Whose_Name = me.m10.d28_en_US_barrett
 
-alt1.meDate.text = ""
-alt1.meCommemoration.text = "" //full title of day
-alt1.meShortCommemoration1.text = ""
+alt1.meDA.date = ""
+alt1.meDA.commemoration.full = "" //full title of day
+alt1.meDA.commemoration.first_short = ""
 
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" //for use in petitions and dismissal
-alt1.meInsert2 = "" //for use in petitions and dismissal
-alt1.meNote.text = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" //for use in petitions and dismissal
+alt1.meDA.insert2 = "" //for use in petitions and dismissal
+alt1.meDA.note = ""
 alt1.meLE.commemoration1 = ""
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
