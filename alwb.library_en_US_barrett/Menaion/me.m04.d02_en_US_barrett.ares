@@ -55,7 +55,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode1C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode1C1H.melody = he.h.m8_en_US_barrett.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_barrett.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_barrett.YgranDiodefsas.text
 
@@ -94,7 +94,7 @@ meMA.Ode1C1T.text = "O Mother of God, you are higher than all of creation, and s
 
 meMA.Ode3C1H.ode = misc_en_US_barrett.Ode3
 meMA.Ode3C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode3C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode3C1H.melody = he.h.m8_en_US_barrett.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_barrett.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_barrett.SyEiToStereoma.text
 
@@ -150,7 +150,7 @@ meMA.Ode3KathismaSt.text = "O Master, when your Mother the Ewe saw that You were
 
 meMA.Ode4C1H.ode = misc_en_US_barrett.Ode4
 meMA.Ode4C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode4C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode4C1H.melody = he.h.m8_en_US_barrett.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_barrett.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_barrett.EisakikoaKyrie.text
 
@@ -186,7 +186,7 @@ meMA.Ode4C1T.text = "O all-blameless one, you are more exalted than the Cherubim
 
 meMA.Ode5C1H.ode = misc_en_US_barrett.Ode5
 meMA.Ode5C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode5C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode5C1H.melody = he.h.m8_en_US_barrett.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_barrett.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_barrett.InaTiMeAposo.text
 
@@ -216,7 +216,7 @@ meMA.Ode5C1T.text = "O immaculate and all-blameless Virgin, we all have you as o
 
 meMA.Ode6C1H.ode = misc_en_US_barrett.Ode6
 meMA.Ode6C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode6C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode6C1H.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_barrett.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_barrett.IlasthitiMoiSotir.text
 
@@ -259,7 +259,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_barrett.Ode7
 meMA.Ode7C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode7C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode7C1H.melody = he.h.m8_en_US_barrett.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_barrett.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_barrett.OiEkTisIoudaias.text
 
@@ -295,7 +295,7 @@ meMA.Ode7C1T.text = "O gracious Lady, you gave birth to the Master of all in a m
 
 meMA.Ode8C1H.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode8C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode8C1H.melody = he.h.m8_en_US_barrett.TonVasileaTonOuranon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_barrett.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_barrett.TonVasileaTonOuranon.text
 
@@ -331,7 +331,7 @@ meMA.Ode8C1T.text = "O immaculate Virgin and Mother of God, you conceived in you
 
 meMA.Ode9C1H.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C1H.mode = misc_en_US_barrett.Mode8
-meMA.Ode9C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode9C1H.melody = he.h.m8_en_US_barrett.TinAgninEndoxos.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_barrett.TinAgninEndoxos.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_barrett.TinAgninEndoxos.text
 

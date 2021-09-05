@@ -72,7 +72,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode1C1H.melody = misc_en_US_barrett.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m2_en_US_barrett.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_barrett.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_barrett.EnVythoKatestrose.text
 
@@ -111,7 +111,7 @@ meMA.Ode1C1T.text = "O Full of Grace, you conceived the enhypostatic and life-st
 
 meMA.Ode3C1H.ode = misc_en_US_barrett.Ode3
 meMA.Ode3C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode3C1H.melody = misc_en_US_barrett.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m2_en_US_barrett.EnPetraMeTisPisteos.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_barrett.EnPetraMeTisPisteos.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_barrett.EnPetraMeTisPisteos.text
 
@@ -156,7 +156,7 @@ meMA.Ode3KathismaSt.text = "O Savior, Shepherd, and Lamb of God, when the pure E
 
 meMA.Ode4C1H.ode = misc_en_US_barrett.Ode4
 meMA.Ode4C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode4C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode4C1H.melody = he.h.m2_en_US_barrett.YmnoSeAkoi.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_barrett.YmnoSeAkoi.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_barrett.YmnoSeAkoi.text
 
@@ -192,7 +192,7 @@ meMA.Ode4C1T.text = "O all-pure Virgin, the one who has given all things their b
 
 meMA.Ode5C1H.ode = misc_en_US_barrett.Ode5
 meMA.Ode5C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode5C1H.melody = misc_en_US_barrett.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m2_en_US_barrett.OFotismos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_barrett.OFotismos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_barrett.OFotismos.text
 
@@ -228,7 +228,7 @@ meMA.Ode5C1T.text = "O Virgin, we know that you are the Sun of Glory's dawn, the
 
 meMA.Ode6C1H.ode = misc_en_US_barrett.Ode6
 meMA.Ode6C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode6C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode6C1H.melody = he.h.m2_en_US_barrett.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_barrett.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_barrett.EnAvyssoPtaismaton.text
 
@@ -265,7 +265,7 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C1H.ode = misc_en_US_barrett.Ode7
 meMA.Ode7C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode7C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode7C1H.melody = he.h.m2_en_US_barrett.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_barrett.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_barrett.EikonosChrysis.text
 
@@ -301,7 +301,7 @@ meMA.Ode7C1T.text = "O hallowed Virgin Mother, the Incomprehensible One takes fl
 
 meMA.Ode8C1H.ode = misc_en_US_barrett.Ode8
 meMA.Ode8C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode8C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode8C1H.melody = he.h.m2_en_US_barrett.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_barrett.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_barrett.TonEnKaminoTouPyros.text
 
@@ -331,7 +331,7 @@ meMA.Ode8C1T.text = "O Savior, since you are God, you truly appeared on earth be
 
 meMA.Ode9C1H.ode = misc_en_US_barrett.Ode9
 meMA.Ode9C1H.mode = misc_en_US_barrett.Mode2
-meMA.Ode9C1H.melody = misc_en_US_barrett.Heirmos
+meMA.Ode9C1H.melody = he.h.m2_en_US_barrett.ITonProIliouFostira.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_barrett.ITonProIliouFostira.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_barrett.ITonProIliouFostira.text
 
