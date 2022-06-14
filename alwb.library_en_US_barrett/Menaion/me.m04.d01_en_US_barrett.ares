@@ -67,12 +67,12 @@ meVE.Apolytikion2.melody = he.a.m5_en_US_barrett.TonSynanarchonLogon.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
-meMA.C1.poet = //poets_en_US_barrett.Theofanous
-meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = //poets_en_US_barrett.Theofanous
+meMA.C1.title = //titles_en_US_barrett.KanonTisAgias
+meMA.C1.verse = //prayers_en_US_barrett.verse_DevoutWoman.text
 
 meMA.Ode1C1H.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C1H.mode = misc_en_US_barrett.Mode2
@@ -80,14 +80,11 @@ meMA.Ode1C1H.melody = he.h.m2_en_US_barrett.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_barrett.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_barrett.EnVythoKatestrose.text
 
-meMA.C1.title = //titles_en_US_barrett.KanonTisOsias
-meMA.C1.verse = //prayers_en_US_barrett.verse_DevoutWoman.text
-
 meMA.Ode1C11.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C11.mode = misc_en_US_barrett.Mode2
 meMA.Ode1C11.melody = he.h.m2_en_US_barrett.EnVythoKatestrose.notmetered
 meMA.Ode1C11.incipit = "O glorious Mary, since you…"
-meMA.Ode1C11.text = "O glorious Mary, since you have now found the illumination of bright-shining splendour and illuminating brilliance, I entreat you, with your prayers to the Lord enlighten my soul that is overshadowed by the passions."
+meMA.Ode1C11.text = "O glorious Mary, since you have now found the illumination of bright-shining splendor and illuminating brilliance, I entreat you, with your prayers to the Lord enlighten my soul that is overshadowed by the passions."
 
 meMA.Ode1C12.ode = misc_en_US_barrett.Ode1
 meMA.Ode1C12.mode = misc_en_US_barrett.Mode2
