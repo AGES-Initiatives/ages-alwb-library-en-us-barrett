@@ -703,7 +703,7 @@ OsIonanTonProfitin.ode = misc_en_US_barrett.Ode6
 OsIonanTonProfitin.text = ""
 
 OtiEpoiiseMoiMegaleia.notmetered = "N/M ()"
-OtiEpoiiseMoiMegaleia.name = ""
+OtiEpoiiseMoiMegaleia.name = "For He who is all-powerful."
 OtiEpoiiseMoiMegaleia.incipit = "…"
 OtiEpoiiseMoiMegaleia.melody = misc_en_US_barrett.Heirmos
 OtiEpoiiseMoiMegaleia.mode = misc_en_US_barrett.Mode4
