@@ -41,8 +41,8 @@ meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_US_barrett.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.OTouParadoxou.name
-meVE.SticStavrotheotokion.incipit = "Sol is darkened now, my…"
-meVE.SticStavrotheotokion.text = "Sol is darkened now, my dearest Son, and Luna darkens her light; she has solemnly dimmed herself, appearing as an opaque cloak, earth now trembles as wracked by grief, your temple's curtain asunder now is torn, and how am I, my Child, not yet ripped apart in my heart and my eyes? I tear at my cheeks as I am ruled as I am by grief, looking on you dying unjustly, my Savior."
+meVE.SticStavrotheotokion.incipit = "Sol is darkened now…"
+meVE.SticStavrotheotokion.text = "Sol is darkened now, my dearest Son, and Luna darkens her light; she has solemnly dimmed herself, appearing as an opaque cloak, earth now trembles as wracked by grief, your temple's curtain asunder now is torn, and how am I, my Child, not yet ripped apart in my heart and my eyes? I tear at my cheeks, ruled as I am by grief, looking on you dying unjustly, my Savior."
 
 meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion1.mode = misc_en_US_barrett.Mode1
