@@ -53,7 +53,7 @@ meVE.Apolytikion1.text = ""
 meMA.C1.acrostic.title = "Canon for the Apostles."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-meMA.C1.title = //titles_en_US_barrett.KanonTonApostolon
+meMA.C1.title = //titles_en_US_barrett.ti.CanonApostles
 meMA.C1.verse = //prayers_en_US_barrett.verse_Apostles.text
 
 meMA.Ode1C1H.ode = misc_en_US_barrett.Ode1
