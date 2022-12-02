@@ -20,39 +20,39 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera01.melody = he.a.m8_en_US_barrett.OTouParadoxou.name
+meVE.Stichera01.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
 meVE.Stichera01.incipit = "Father Timothy of godly mind…"
 meVE.Stichera01.text = "Father Timothy of godly mind, through your vast store of self-control, and a practice of constant prayer, utterly you did destroy untrained passions' unruliness, and you obtained the grace of dispassion, the divine spirit's vessel you thus became, ever did you expel all the evil spirits that did afflict us while you lived and after death, O blessed man of God."
 
 meVE.Stichera02.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_barrett.OTouParadoxou.name
+meVE.Stichera02.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
 meVE.Stichera02.incipit = "Father Timothy of godly mind…"
 meVE.Stichera02.text = "Father Timothy of godly mind, Abraham's imitator and truthful instructor, and a constant healer of all those fleeing unto you, you held Job's constancy through your godly pains, and David's meekness you ever strove to keep, on earth you made your life equal to the angels', and you did obtain holiness' pinnacle while interceding for us."
 
 meVE.Stichera03.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_barrett.OTouParadoxou.name
+meVE.Stichera03.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
 meVE.Stichera03.incipit = "Father Timothy, the godly priest…"
 meVE.Stichera03.text = "Father Timothy, the godly priest, icon of discretion, illustration of self-control, paragon of piety, spring abundant of conscience, unshaken pillar of Orthodoxy, stream ever-flowing of healing medicines, sun that never sets, child of grace divine, you were seen thus to be monasticism's pride and joy, O most pious saint."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.SticTheotokion.melody = he.a.m8_en_US_barrett.OTouParadoxou.name
+meVE.SticTheotokion.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
 meVE.SticTheotokion.incipit = "My entire life has been…"
 meVE.SticTheotokion.text = "My entire life has been depraved, my soul wholly wanton, my own body a shrine of sin, mind and spirit both impure, all defiled are all my works, I know that I deserve a reckoning of judgment and wrathful condemnation. Where ought I now to go and to where am I to flee if not to you? Lady, show compassion now and come to save me, I pray."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.OTouParadoxou.name
-meVE.SticStavrotheotokion.incipit = he.a.m8_en_US_barrett.OTouParadoxou.incipit
-meVE.SticStavrotheotokion.text = he.a.m8_en_US_barrett.OTouParadoxou.text
+meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
+meVE.SticStavrotheotokion.incipit = he.a.m8_en_US_barrett.heAU.OTouParadoxou.incipit
+meVE.SticStavrotheotokion.text = he.a.m8_en_US_barrett.heAU.OTouParadoxou.text
 
 meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode5
-meVE.Apolytikion1.melody = he.a.m5_en_US_barrett.TonSynanarchonLogon.name
+meVE.Apolytikion1.melody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_US_barrett.misc.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_US_barrett.TheiasPisteos.name
+meVE.Apolytikion2.melody = he.a.m3_en_US_barrett.heAU.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
@@ -65,267 +65,267 @@ meMA.C1.verse = //prayers_en_US_barrett.pr.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode1C1H.melody = he.h.m8_en_US_barrett.AsomenOdinToTheo.melody
-meMA.Ode1C1H.incipit = he.h.m8_en_US_barrett.AsomenOdinToTheo.incipit
-meMA.Ode1C1H.text = he.h.m8_en_US_barrett.AsomenOdinToTheo.text
+meMA.Ode1C1H.melody = he.h.m8_en_US_barrett.heHE.AsomenOdinToTheo.melody
+meMA.Ode1C1H.incipit = he.h.m8_en_US_barrett.heHE.AsomenOdinToTheo.incipit
+meMA.Ode1C1H.text = he.h.m8_en_US_barrett.heHE.AsomenOdinToTheo.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode1C11.melody = he.h.m8_en_US_barrett.AsomenOdinToTheo.name
+meMA.Ode1C11.melody = he.h.m8_en_US_barrett.heHE.AsomenOdinToTheo.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode1C12.melody = he.h.m8_en_US_barrett.AsomenOdinToTheo.name
+meMA.Ode1C12.melody = he.h.m8_en_US_barrett.heHE.AsomenOdinToTheo.name
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode1C13.melody = he.h.m8_en_US_barrett.AsomenOdinToTheo.name
+meMA.Ode1C13.melody = he.h.m8_en_US_barrett.heHE.AsomenOdinToTheo.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C1T.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode1C1T.melody = he.h.m8_en_US_barrett.AsomenOdinToTheo.name
+meMA.Ode1C1T.melody = he.h.m8_en_US_barrett.heHE.AsomenOdinToTheo.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode3C1H.melody = he.h.m8_en_US_barrett.StereomaMouSotir.melody
-meMA.Ode3C1H.incipit = he.h.m8_en_US_barrett.StereomaMouSotir.incipit
-meMA.Ode3C1H.text = he.h.m8_en_US_barrett.StereomaMouSotir.text
+meMA.Ode3C1H.melody = he.h.m8_en_US_barrett.heHE.StereomaMouSotir.melody
+meMA.Ode3C1H.incipit = he.h.m8_en_US_barrett.heHE.StereomaMouSotir.incipit
+meMA.Ode3C1H.text = he.h.m8_en_US_barrett.heHE.StereomaMouSotir.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode3C11.melody = he.h.m8_en_US_barrett.StereomaMouSotir.name
+meMA.Ode3C11.melody = he.h.m8_en_US_barrett.heHE.StereomaMouSotir.name
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode3C12.melody = he.h.m8_en_US_barrett.StereomaMouSotir.name
+meMA.Ode3C12.melody = he.h.m8_en_US_barrett.heHE.StereomaMouSotir.name
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode3C13.melody = he.h.m8_en_US_barrett.StereomaMouSotir.name
+meMA.Ode3C13.melody = he.h.m8_en_US_barrett.heHE.StereomaMouSotir.name
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C1T.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode3C1T.melody = he.h.m8_en_US_barrett.StereomaMouSotir.name
+meMA.Ode3C1T.melody = he.h.m8_en_US_barrett.heHE.StereomaMouSotir.name
 meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode3Kathisma1.melody = he.a.m4_en_US_barrett.TachyProkatalave.name
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_barrett.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_barrett.misc.Mode4
 meMA.Ode3KathismaT.melody = miscellanea_en_US_barrett.misc.Automelon
-meMA.Ode3KathismaT.incipit = he.a.m4_en_US_barrett.TachyProkatalave.incipit
-meMA.Ode3KathismaT.text = he.a.m4_en_US_barrett.TachyProkatalave.text
+meMA.Ode3KathismaT.incipit = he.a.m4_en_US_barrett.heAU.TachyProkatalave.incipit
+meMA.Ode3KathismaT.text = he.a.m4_en_US_barrett.heAU.TachyProkatalave.text
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode3KathismaSt.melody = he.a.m4_en_US_barrett.TachyProkatalave.name
+meMA.Ode3KathismaSt.melody = he.a.m4_en_US_barrett.heAU.TachyProkatalave.name
 meMA.Ode3KathismaSt.incipit = "…"
 meMA.Ode3KathismaSt.text = //oc.m4.d6_en_US_barrett.ocMA.Kathisma23.text
 
 meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode4C1H.melody = he.h.m8_en_US_barrett.ExOrousKataskiou.melody
-meMA.Ode4C1H.incipit = he.h.m8_en_US_barrett.ExOrousKataskiou.incipit
-meMA.Ode4C1H.text = he.h.m8_en_US_barrett.ExOrousKataskiou.text
+meMA.Ode4C1H.melody = he.h.m8_en_US_barrett.heHE.ExOrousKataskiou.melody
+meMA.Ode4C1H.incipit = he.h.m8_en_US_barrett.heHE.ExOrousKataskiou.incipit
+meMA.Ode4C1H.text = he.h.m8_en_US_barrett.heHE.ExOrousKataskiou.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode4C11.melody = he.h.m8_en_US_barrett.ExOrousKataskiou.name
+meMA.Ode4C11.melody = he.h.m8_en_US_barrett.heHE.ExOrousKataskiou.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode4C12.melody = he.h.m8_en_US_barrett.ExOrousKataskiou.name
+meMA.Ode4C12.melody = he.h.m8_en_US_barrett.heHE.ExOrousKataskiou.name
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode4C13.melody = he.h.m8_en_US_barrett.ExOrousKataskiou.name
+meMA.Ode4C13.melody = he.h.m8_en_US_barrett.heHE.ExOrousKataskiou.name
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C1T.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode4C1T.melody = he.h.m8_en_US_barrett.ExOrousKataskiou.name
+meMA.Ode4C1T.melody = he.h.m8_en_US_barrett.heHE.ExOrousKataskiou.name
 meMA.Ode4C1T.incipit = "…"
 meMA.Ode4C1T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode5C1H.melody = he.h.m8_en_US_barrett.TonZofonTisPsychisMou.melody
-meMA.Ode5C1H.incipit = he.h.m8_en_US_barrett.TonZofonTisPsychisMou.incipit
-meMA.Ode5C1H.text = he.h.m8_en_US_barrett.TonZofonTisPsychisMou.text
+meMA.Ode5C1H.melody = he.h.m8_en_US_barrett.heHE.TonZofonTisPsychisMou.melody
+meMA.Ode5C1H.incipit = he.h.m8_en_US_barrett.heHE.TonZofonTisPsychisMou.incipit
+meMA.Ode5C1H.text = he.h.m8_en_US_barrett.heHE.TonZofonTisPsychisMou.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode5C11.melody = he.h.m8_en_US_barrett.TonZofonTisPsychisMou.name
+meMA.Ode5C11.melody = he.h.m8_en_US_barrett.heHE.TonZofonTisPsychisMou.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode5C12.melody = he.h.m8_en_US_barrett.TonZofonTisPsychisMou.name
+meMA.Ode5C12.melody = he.h.m8_en_US_barrett.heHE.TonZofonTisPsychisMou.name
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode5C13.melody = he.h.m8_en_US_barrett.TonZofonTisPsychisMou.name
+meMA.Ode5C13.melody = he.h.m8_en_US_barrett.heHE.TonZofonTisPsychisMou.name
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C1T.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode5C1T.melody = he.h.m8_en_US_barrett.TonZofonTisPsychisMou.name
+meMA.Ode5C1T.melody = he.h.m8_en_US_barrett.heHE.TonZofonTisPsychisMou.name
 meMA.Ode5C1T.incipit = "…"
 meMA.Ode5C1T.text = ""
 
 meMA.Ode6C1H.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode6C1H.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.melody
-meMA.Ode6C1H.incipit = he.h.m8_en_US_barrett.IlasthitiMoiSotir.incipit
-meMA.Ode6C1H.text = he.h.m8_en_US_barrett.IlasthitiMoiSotir.text
+meMA.Ode6C1H.melody = he.h.m8_en_US_barrett.heHE.IlasthitiMoiSotir.melody
+meMA.Ode6C1H.incipit = he.h.m8_en_US_barrett.heHE.IlasthitiMoiSotir.incipit
+meMA.Ode6C1H.text = he.h.m8_en_US_barrett.heHE.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode6C11.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.name
+meMA.Ode6C11.melody = he.h.m8_en_US_barrett.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode6C12.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.name
+meMA.Ode6C12.melody = he.h.m8_en_US_barrett.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode6C13.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.name
+meMA.Ode6C13.melody = he.h.m8_en_US_barrett.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C1T.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode6C1T.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.name
+meMA.Ode6C1T.melody = he.h.m8_en_US_barrett.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_US_barrett.EpefanisSimeron.name
+meMA.Kontakion1.melody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.name
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode7C1H.melody = he.h.m8_en_US_barrett.ODiAngelouPaidas.melody
-meMA.Ode7C1H.incipit = he.h.m8_en_US_barrett.ODiAngelouPaidas.incipit
-meMA.Ode7C1H.text = he.h.m8_en_US_barrett.ODiAngelouPaidas.text
+meMA.Ode7C1H.melody = he.h.m8_en_US_barrett.heHE.ODiAngelouPaidas.melody
+meMA.Ode7C1H.incipit = he.h.m8_en_US_barrett.heHE.ODiAngelouPaidas.incipit
+meMA.Ode7C1H.text = he.h.m8_en_US_barrett.heHE.ODiAngelouPaidas.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode7C11.melody = he.h.m8_en_US_barrett.ODiAngelouPaidas.name
+meMA.Ode7C11.melody = he.h.m8_en_US_barrett.heHE.ODiAngelouPaidas.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode7C12.melody = he.h.m8_en_US_barrett.ODiAngelouPaidas.name
+meMA.Ode7C12.melody = he.h.m8_en_US_barrett.heHE.ODiAngelouPaidas.name
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode7C13.melody = he.h.m8_en_US_barrett.ODiAngelouPaidas.name
+meMA.Ode7C13.melody = he.h.m8_en_US_barrett.heHE.ODiAngelouPaidas.name
 meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = ""
 
 meMA.Ode7C1T.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode7C1T.melody = he.h.m8_en_US_barrett.ODiAngelouPaidas.name
+meMA.Ode7C1T.melody = he.h.m8_en_US_barrett.heHE.ODiAngelouPaidas.name
 meMA.Ode7C1T.incipit = "…"
 meMA.Ode7C1T.text = ""
 
 meMA.Ode8C1H.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode8C1H.melody = he.h.m8_en_US_barrett.OStegazonEnYdasi.melody
-meMA.Ode8C1H.incipit = he.h.m8_en_US_barrett.OStegazonEnYdasi.incipit
-meMA.Ode8C1H.text = he.h.m8_en_US_barrett.OStegazonEnYdasi.text
+meMA.Ode8C1H.melody = he.h.m8_en_US_barrett.heHE.OStegazonEnYdasi.melody
+meMA.Ode8C1H.incipit = he.h.m8_en_US_barrett.heHE.OStegazonEnYdasi.incipit
+meMA.Ode8C1H.text = he.h.m8_en_US_barrett.heHE.OStegazonEnYdasi.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode8C11.melody = he.h.m8_en_US_barrett.OStegazonEnYdasi.name
+meMA.Ode8C11.melody = he.h.m8_en_US_barrett.heHE.OStegazonEnYdasi.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode8C12.melody = he.h.m8_en_US_barrett.OStegazonEnYdasi.name
+meMA.Ode8C12.melody = he.h.m8_en_US_barrett.heHE.OStegazonEnYdasi.name
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode8C13.melody = he.h.m8_en_US_barrett.OStegazonEnYdasi.name
+meMA.Ode8C13.melody = he.h.m8_en_US_barrett.heHE.OStegazonEnYdasi.name
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C1T.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode8C1T.melody = he.h.m8_en_US_barrett.OStegazonEnYdasi.name
+meMA.Ode8C1T.melody = he.h.m8_en_US_barrett.heHE.OStegazonEnYdasi.name
 meMA.Ode8C1T.incipit = "…"
 meMA.Ode8C1T.text = ""
 
 meMA.Ode9C1H.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode9C1H.melody = he.h.m8_en_US_barrett.EvlogitosOKyrios.melody
-meMA.Ode9C1H.incipit = he.h.m8_en_US_barrett.EvlogitosOKyrios.incipit
-meMA.Ode9C1H.text = he.h.m8_en_US_barrett.EvlogitosOKyrios.text
+meMA.Ode9C1H.melody = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.melody
+meMA.Ode9C1H.incipit = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.incipit
+meMA.Ode9C1H.text = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode9C11.melody = he.h.m8_en_US_barrett.EvlogitosOKyrios.name
+meMA.Ode9C11.melody = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode9C12.melody = he.h.m8_en_US_barrett.EvlogitosOKyrios.name
+meMA.Ode9C12.melody = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.name
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode9C13.melody = he.h.m8_en_US_barrett.EvlogitosOKyrios.name
+meMA.Ode9C13.melody = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.name
 meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C14.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode9C14.melody = he.h.m8_en_US_barrett.EvlogitosOKyrios.name
+meMA.Ode9C14.melody = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.name
 meMA.Ode9C14.incipit = "…"
 meMA.Ode9C14.text = ""
 
 meMA.Ode9C1T.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode9C1T.melody = he.h.m8_en_US_barrett.EvlogitosOKyrios.name
+meMA.Ode9C1T.melody = he.h.m8_en_US_barrett.heHE.EvlogitosOKyrios.name
 meMA.Ode9C1T.incipit = "…"
 meMA.Ode9C1T.text = ""
 
