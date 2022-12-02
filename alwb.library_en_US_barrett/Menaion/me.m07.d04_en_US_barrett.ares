@@ -19,37 +19,37 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = misc_en_US_barrett.Mode8
+meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_barrett.TiYmasKalesomen.notmetered
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
-meVE.Stichera02.mode = misc_en_US_barrett.Mode8
+meVE.Stichera02.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_barrett.TiYmasKalesomen.notmetered
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
-meVE.Stichera03.mode = misc_en_US_barrett.Mode8
+meVE.Stichera03.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_barrett.TiYmasKalesomen.notmetered
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
-meVE.SticTheotokion.mode = misc_en_US_barrett.Mode8
+meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_barrett.TiYmasKalesomen.notmetered
 meVE.SticTheotokion.incipit = //me.m07.d03_en_US_barrett.meVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = //me.m07.d03_en_US_barrett.meVE.SticTheotokion.text
 
-meVE.SticStavrotheotokion.mode = misc_en_US_barrett.Mode8
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.TiYmasKalesomen.notmetered
 meVE.SticStavrotheotokion.incipit = //me.m06.d18_en_US_barrett.meVE.SticStavrotheotokion.incipit
 meVE.SticStavrotheotokion.text = //me.m06.d18_en_US_barrett.meVE.SticStavrotheotokion.text
 
-meVE.Apolytikion1.mode = misc_en_US_barrett.Mode8
+meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.Apolytikion1.melody = //he.ga_en_US_barrett.OrthodoxiasOdigeH.notmetered
 meVE.GeneralApolytikion1.name = ""
 
 meVE.Apolytikion2.poet = //poets_en_US_barrett.Gerasimou
-meVE.Apolytikion2.mode = misc_en_US_barrett.Mode5
+meVE.Apolytikion2.mode = miscellanea_en_US_barrett.misc.Mode5
 meVE.Apolytikion2.melody = he.a.m5_en_US_barrett.TonSynanarchonLogon.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
@@ -61,244 +61,244 @@ meMA.C1.poet = //poets_en_US_barrett.Theofanous
 meMA.C1.title = //titles_en_US_barrett.ti.CanonSaintM
 meMA.C1.verse = //prayers_en_US_barrett.pr.verse_SaintM.text
 
-meMA.Ode1C11.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode1C11.melody = he.h.m5_en_US_barrett.IpponKaiAnavatin.notmetered
 meMA.Ode1C11.incipit = "O righteous Andrew…"
 meMA.Ode1C11.text = "O righteous Andrew, you shook off sleep from your eyelids and prepared yourself through virtue to be the Master's radiant dwelling place, and in this way you became a dwelling place for God and you revealed divine things."
 
-meMA.Ode1C12.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode1C12.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode1C12.melody = he.h.m5_en_US_barrett.IpponKaiAnavatin.notmetered
 meMA.Ode1C12.incipit = "O marvelous Andrew…"
 meMA.Ode1C12.text = "O marvelous Andrew, you struck up a most harmonious melody on your harp, you have made Christ's Church glad through your hymns which resound with the divine grace of the Holy Spirit."
 
-meMA.Ode1C13.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode1C13.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode1C13.melody = he.h.m5_en_US_barrett.IpponKaiAnavatin.notmetered
 meMA.Ode1C13.incipit = "O all-wise Andrew…"
 meMA.Ode1C13.text = "O all-wise Andrew, the divinely written law persuaded you, and so you mortified the body's passions through asceticism, and as you sang divine songs, you gave wings to your mind by your overflowing love."
 
-meMA.Ode1C1T.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode1C1T.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode1C1T.melody = he.h.m5_en_US_barrett.IpponKaiAnavatin.notmetered
 meMA.Ode1C1T.incipit = "O all-blameless Virgin…"
 meMA.Ode1C1T.text = "O all-blameless Virgin, your Son and God is all desire, untainted sweetness, and the fullness of good things. Entreat Him that they who now flee to you in faith may be rescued."
 
-meMA.Ode3C11.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3C11.melody = he.h.m5_en_US_barrett.OPixasEpOudenos.notmetered
 meMA.Ode3C11.incipit = "O righteous Andrew…"
 meMA.Ode3C11.text = "O righteous Andrew, you directed your life with virtue, and since you were united to God by divine yearning, you were revealed as Christ's eloquent instrument; and endowed by the divine treasuries, you brightened the entire world with your melodies."
 
-meMA.Ode3C12.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode3C12.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3C12.melody = he.h.m5_en_US_barrett.OPixasEpOudenos.notmetered
 meMA.Ode3C12.incipit = "O righteous one…"
 meMA.Ode3C12.text = "O righteous one, you were filled with heavenly wisdom; for you opened your soul's mouth wide, and you clearly received as a sacred priest the full light-bearing radiance of the Three-Sun Brightness."
 
-meMA.Ode3C13.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode3C13.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3C13.melody = he.h.m5_en_US_barrett.OPixasEpOudenos.notmetered
 meMA.Ode3C13.incipit = "O righteous Father,…"
 meMA.Ode3C13.text = "O righteous Father, when you strengthened your soul's powers and tamed the flesh with asceticism, you fully became a brilliant star and delighted the Church with your Orthodox teachings and virtuosic melodies."
 
-meMA.Ode3C1T.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode3C1T.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3C1T.melody = he.h.m5_en_US_barrett.OPixasEpOudenos.notmetered
 meMA.Ode3C1T.incipit = "O all-blameless Mother of God…"
 meMA.Ode3C1T.text = "O all-blameless Mother of God, you miraculously conceived the one who takes away the sins of the world. I entreat you to rescue me from the captivity of the passions, and that all the wounds of my sins be anointed."
 
-meMA.Ode3H.ode = misc_en_US_barrett.Ode3
-meMA.Ode3H.mode = misc_en_US_barrett.Mode5
+meMA.Ode3H.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3H.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3H.melody = he.h.m5_en_US_barrett.OPixasEpOudenos.melody
 meMA.Ode3H.incipit = he.h.m5_en_US_barrett.OPixasEpOudenos.incipit
 meMA.Ode3H.text = he.h.m5_en_US_barrett.OPixasEpOudenos.text
 
-meMA.Ode3Kathisma1.mode = misc_en_US_barrett.Mode8
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_barrett.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "All-praised Andrew…"
 meMA.Ode3Kathisma1.text = "All-praised Andrew, divine light shone in your heart, and you poured out visions of right teachings while illuminating the entire world. You were the divine instrument of the Spirit, bringing joy to every heart with your sweetest songs, singing hymns to God the Trinity, all of the orders of Saints, and the immaculate Virgin. Intercede with Christ our God that He grant forgiveness of all offences to those who commemorate you with faith and love."
 
-meMA.Ode3KathismaT.mode = misc_en_US_barrett.Mode8
+meMA.Ode3KathismaT.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_barrett.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.incipit = me.m07.d01_en_US_barrett.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.text = me.m07.d01_en_US_barrett.meMA.Ode3KathismaT.text
 
-meMA.Ode3KathismaSt.mode = misc_en_US_barrett.Mode8
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_barrett.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaSt.incipit = "The Ewe saw the Redeemer…"
 meMA.Ode3KathismaSt.text = "The Ewe saw the Redeemer and Shepherd and Lamb of God hanging on the Cross, and in mourning, she wept and sobbed cried out most bitterly: The world has been given salvation and celebrates, but the pit of my stomach burns as I see You crucified, which You endure in the depths of your mercy, O long-suffering Lord, Fountain of all goodness and bottomless Abyss of mercy. Be merciful and give pardon of offences to Your servants who with faith praise Your divine sufferings."
 
-meMA.Ode4C11.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode4C11.melody = he.h.m5_en_US_barrett.TinTheianEnnoisas.notmetered
 meMA.Ode4C11.incipit = "O God-inspired Andrew…"
 meMA.Ode4C11.text = "O God-inspired Andrew, your words were ornamented by your life. They clearly explained the glory of the All-hymned Trinity, and proved to be a guide of exact theology."
 
-meMA.Ode4C12.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode4C12.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode4C12.melody = he.h.m5_en_US_barrett.TinTheianEnnoisas.notmetered
 meMA.Ode4C12.incipit = "O wise Andrew, you demonstrated…"
 meMA.Ode4C12.text = "O wise Andrew, you demonstrated that discipline is the access of divine vision. O herald of divine things, you sealed your way of life with that divine vision and became renowned."
 
-meMA.Ode4C13.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode4C13.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode4C13.melody = he.h.m5_en_US_barrett.TinTheianEnnoisas.notmetered
 meMA.Ode4C13.incipit = "O all-blessed Andrew, model…"
 meMA.Ode4C13.text = "O all-blessed Andrew, model of manhood, as a divine hierarch, you defended the Church like a shepherd and fended off the lions' attacks."
 
-meMA.Ode4C14.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C14.mode = misc_en_US_barrett.Mode5
+meMA.Ode4C14.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C14.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode4C14.melody = he.h.m5_en_US_barrett.TinTheianEnnoisas.notmetered
 meMA.Ode4C14.incipit = "O wise Andrew, you found…"
 meMA.Ode4C14.text = "O wise Andrew, you found the Mother of God a fitting object of great praise. You put forth the proper effort and honored her who is beyond praise with praises beyond number."
 
-meMA.Ode4C1T.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode4C1T.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode4C1T.melody = he.h.m5_en_US_barrett.TinTheianEnnoisas.notmetered
 meMA.Ode4C1T.incipit = "You conceived in your womb…"
 meMA.Ode4C1T.text = "You conceived in your womb without union and with corruption. You gave birth before you experienced pain, and since you gave birth to God in the flesh, after childbirth you remained a virgin."
 
-meMA.Ode5C11.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode5C11.melody = he.h.m5_en_US_barrett.OAnavallomenos.notmetered
 meMA.Ode5C11.incipit = "O all-blessed Andrew, we are sanctified…"
 meMA.Ode5C11.text = "O all-blessed Andrew, we are sanctified by your teachings and take divine delight from your God-inspired melodies, and we honor your commemoration."
 
-meMA.Ode5C12.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode5C12.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode5C12.melody = he.h.m5_en_US_barrett.OAnavallomenos.notmetered
 meMA.Ode5C12.incipit = "O all-blessed Andrew, you were brilliant…"
 meMA.Ode5C12.text = "O all-blessed Andrew, you were brilliant with the Divine Spirit's glory. You gave all-holy praise to the choirs of the Saints, and now you rejoice with them."
 
-meMA.Ode5C13.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode5C13.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode5C13.melody = he.h.m5_en_US_barrett.OAnavallomenos.notmetered
 meMA.Ode5C13.incipit = "O all-wise Andrew…"
 meMA.Ode5C13.text = "O all-wise Andrew, since you are now united to the Almighty, you behold the things of God with the spiritual faculties of your soul, not through the body's corruptible senses, nor with your imagination."
 
-meMA.Ode5C1T.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode5C1T.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode5C1T.melody = he.h.m5_en_US_barrett.OAnavallomenos.notmetered
 meMA.Ode5C1T.incipit = "O all-blameless Virgin…"
 meMA.Ode5C1T.text = "O all-blameless Virgin, I tearfully fall down before you and plead earnestly that through you I may now be delivered from my transgressions and become worthy of eternal joy."
 
-meMA.Ode6C11.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode6C11.melody = he.h.m5_en_US_barrett.MainomeninKlydoni.notmetered
 meMA.Ode6C11.incipit = "O initiate of sacred mysteries…"
 meMA.Ode6C11.text = "O initiate of sacred mysteries, you eloquently rebuked the godless with your resonant mouth; for truly and clearly, you vindicated the worship of the venerable icons."
 
-meMA.Ode6C12.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode6C12.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode6C12.melody = he.h.m5_en_US_barrett.MainomeninKlydoni.notmetered
 meMA.Ode6C12.incipit = "O glorious Father…"
 meMA.Ode6C12.text = "O glorious Father, you bedecked your life with sacred adornment; for you soothed the passions' storm and came to safe harbor in the haven of a dispassionate life."
 
-meMA.Ode6C13.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode6C13.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode6C13.melody = he.h.m5_en_US_barrett.MainomeninKlydoni.notmetered
 meMA.Ode6C13.incipit = "We the faithful all rejoice…"
 meMA.Ode6C13.text = "We the faithful all rejoice and take sacred delight from the beauty of your words and teachings, and we beat back in defeat the ranting of heretics."
 
-meMA.Ode6C1T.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode6C1T.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode6C1T.melody = he.h.m5_en_US_barrett.MainomeninKlydoni.notmetered
 meMA.Ode6C1T.incipit = "O all-blameless Bride of God…"
 meMA.Ode6C1T.text = "O all-blameless Bride of God, the Beginningless One shone forth from the Father, and because of the Incarnation that came to pass through you, he is wholly united to me."
 
-meMA.Ode6H.ode = misc_en_US_barrett.Ode6
-meMA.Ode6H.mode = misc_en_US_barrett.Mode5
+meMA.Ode6H.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6H.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode6H.melody = he.h.m5_en_US_barrett.MainomeninKlydoni.melody
 meMA.Ode6H.incipit = he.h.m5_en_US_barrett.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_en_US_barrett.MainomeninKlydoni.text
 
-meMA.Kontakion1.mode = misc_en_US_barrett.Mode2
+meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Kontakion1.melody = he.a.m2_en_US_barrett.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
-meMA.Ode7C11.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode7C11.melody = he.h.m5_en_US_barrett.OYperypsoumenos.notmetered
 meMA.Ode7C11.incipit = "O righteous Andrew,…"
 meMA.Ode7C11.text = "O righteous Andrew, you enriched your life splendid with your deeds so that you might behold the Saints' glory in the spirit, and thus you cried out: blessed are You, O God."
 
-meMA.Ode7C12.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode7C12.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode7C12.melody = he.h.m5_en_US_barrett.OYperypsoumenos.notmetered
 meMA.Ode7C12.incipit = "O righteous one…"
 meMA.Ode7C12.text = "O righteous one, you imitated the orders of the bodiless powers while you still had a body. Rejoicing, you sing in unison with them: blessed are You, O God."
 
-meMA.Ode7C13.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode7C13.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode7C13.melody = he.h.m5_en_US_barrett.OYperypsoumenos.notmetered
 meMA.Ode7C13.incipit = "O blessed Andrew…"
 meMA.Ode7C13.text = "O blessed Andrew, Jerusalem sent you out into the world as a brilliant luminary and is now glad beyond measure. She sings, blessed are You, O God."
 
-meMA.Ode7C1T.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode7C1T.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode7C1T.melody = he.h.m5_en_US_barrett.OYperypsoumenos.notmetered
 meMA.Ode7C1T.incipit = "O all-pure Virgin…"
 meMA.Ode7C1T.text = "O all-pure Virgin, He who was previously bodiless now receives a body from your holy womb because of His immeasurable compassion. to Whom we all sing: O God, blessed are You."
 
-meMA.Ode8C11.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode8C11.melody = he.h.m5_en_US_barrett.SoiToPantourgo.notmetered
 meMA.Ode8C11.incipit = "O Father, you joyously leapt…"
 meMA.Ode8C11.text = "O Father, you joyously leapt before the new ark of the Church, forming choirs and crying out: O all you works, sing a hymn to Christ, and exalt Him beyond measure unto all the ages."
 
-meMA.Ode8C12.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode8C12.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode8C12.melody = he.h.m5_en_US_barrett.SoiToPantourgo.notmetered
 meMA.Ode8C12.incipit = "O Father, you cried out…"
 meMA.Ode8C12.text = "O Father, you cried out a new song to the Almighty in the Church of the Saints: O all you works, sing a hymn to the Lord, and exalt Him beyond measure unto all the ages."
 
-meMA.Ode8C13.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode8C13.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode8C13.melody = he.h.m5_en_US_barrett.SoiToPantourgo.notmetered
 meMA.Ode8C13.incipit = "O all-wise Andrew…"
 meMA.Ode8C13.text = "O all-wise Andrew, you paid homage to virtue with your deeds in a God-befitting manner, and you praised the contests of all the Saints who had before been made wondrous and perfected in Christ unto all the ages."
 
-meMA.Ode8C1T.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode8C1T.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode8C1T.melody = he.h.m5_en_US_barrett.SoiToPantourgo.notmetered
 meMA.Ode8C1T.incipit = "Come, let us praise…"
 meMA.Ode8C1T.text = "Come, let us praise the pure Theotokos and Maiden, saying with divinely-inspired songs: Hail, O Virgin blessed beyond measure! Through you has joy been bestowed upon our human nature."
 
-meMA.Ode8H.ode = misc_en_US_barrett.Ode8
-meMA.Ode8H.mode = misc_en_US_barrett.Mode5
+meMA.Ode8H.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8H.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode8H.melody = he.h.m5_en_US_barrett.SoiToPantourgo.melody
 meMA.Ode8H.incipit = he.h.m5_en_US_barrett.SoiToPantourgo.incipit
 meMA.Ode8H.text = he.h.m5_en_US_barrett.SoiToPantourgo.text
 
-meMA.Ode9C11.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C11.mode = misc_en_US_barrett.Mode5
+meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode9C11.melody = he.h.m5_en_US_barrett.IsaiaChoreve.notmetered
 meMA.Ode9C11.incipit = "O blessed Andrew…"
 meMA.Ode9C11.text = "O blessed Andrew, the sound of your words and the delight and truth of your teachings has traversed the entire earth, and so Christ the King of all has crowned you with the crown of majesty."
 
-meMA.Ode9C12.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C12.mode = misc_en_US_barrett.Mode5
+meMA.Ode9C12.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode9C12.melody = he.h.m5_en_US_barrett.IsaiaChoreve.notmetered
 meMA.Ode9C12.incipit = "O Andrew, our guide…"
 meMA.Ode9C12.text = "O Andrew, our guide into things beyond nature, since you enjoy a more excellent union with the thrice-brilliant Radiance, at your intercessions now preserve from dangers those who keep your sacred memorial with faith and yearning."
 
-meMA.Ode9C13.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C13.mode = misc_en_US_barrett.Mode5
+meMA.Ode9C13.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode9C13.melody = he.h.m5_en_US_barrett.IsaiaChoreve.notmetered
 meMA.Ode9C13.incipit = "O brilliant Andrew…"
 meMA.Ode9C13.text = "O brilliant Andrew who speaks godly words, you led your life on earth without faltering and were proven a peerless proclaimer of Orthodoxy. Now you celebrate in the Heavens with the bodiless powers."
 
-meMA.Ode9C1T.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C1T.mode = misc_en_US_barrett.Mode5
+meMA.Ode9C1T.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode9C1T.melody = he.h.m5_en_US_barrett.IsaiaChoreve.notmetered
 meMA.Ode9C1T.incipit = "O Theotokos and Virgin Mother…"
 meMA.Ode9C1T.text = "O Theotokos and Virgin Mother, you disarmed the encroaching and unstoppable violence of death when, in a manner past understanding, you physically gave birth to the eternal Life that Hades, with his bitter mouth, attempted to capture, but was destroyed."
 
-meMA.Ode9H.ode = misc_en_US_barrett.Ode9
-meMA.Ode9H.mode = misc_en_US_barrett.Mode5
+meMA.Ode9H.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9H.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode9H.melody = he.h.m5_en_US_barrett.IsaiaChoreve.melody
 meMA.Ode9H.incipit = he.h.m5_en_US_barrett.IsaiaChoreve.incipit
 meMA.Ode9H.text = he.h.m5_en_US_barrett.IsaiaChoreve.text

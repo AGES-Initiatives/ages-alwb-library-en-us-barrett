@@ -19,33 +19,33 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
-meVE.Stichera01.mode = misc_en_US_barrett.Mode8
+meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.Stichera01.melody = he.a.m8_en_US_barrett.OTouParadoxou.notmetered
 meVE.Stichera01.incipit = "…"
 meVE.Stichera01.text = ""
 
-meVE.Stichera02.mode = misc_en_US_barrett.Mode8
+meVE.Stichera02.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.Stichera02.melody = he.a.m8_en_US_barrett.OTouParadoxou.notmetered
 meVE.Stichera02.incipit = "…"
 meVE.Stichera02.text = ""
 
-meVE.Stichera03.mode = misc_en_US_barrett.Mode8
+meVE.Stichera03.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.Stichera03.melody = he.a.m8_en_US_barrett.OTouParadoxou.notmetered
 meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
-meVE.SticTheotokion.mode = misc_en_US_barrett.Mode8
+meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_US_barrett.OTouParadoxou.notmetered
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
-meVE.SticStavrotheotokion.mode = misc_en_US_barrett.Mode8
+meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.OTouParadoxou.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""
 
 meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
-meVE.Apolytikion1.mode = misc_en_US_barrett.Mode4
+meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_US_barrett.OYpsotheisEnToStavro.notmetered
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
@@ -57,311 +57,311 @@ meMA.C1.poet = //poets_en_US_barrett.Theofanous
 meMA.C1.title = //titles_en_US_barrett.ti.CanonDevoutM
 meMA.C1.verse = //prayers_en_US_barrett.pr.verse_DevoutMan.text
 
-meMA.Ode1C1H.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode1C1H.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode1C1H.melody = he.h.m8_en_US_barrett.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_US_barrett.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_US_barrett.YgranDiodefsas.text
 
-meMA.Ode1C11.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_US_barrett.YgranDiodefsas.notmetered
 meMA.Ode1C11.incipit = "O Titus, you are a…"
 meMA.Ode1C11.text = "O Titus, you are a treasury of dispassion. I am bogged down from head to toe with fleshly passions and corrupted by sensual pleasures; therefore, save me at your intercessions"
 
-meMA.Ode1C12.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode1C12.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_US_barrett.YgranDiodefsas.notmetered
 meMA.Ode1C12.incipit = "The Spirit divinely chose you…"
 meMA.Ode1C12.text = "The Spirit divinely chose you, you were offered to God from the time you were swaddled as an infant, and you were initiated and became a servant of the Virgin Theotokos."
 
-meMA.Ode1C13.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode1C13.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_US_barrett.YgranDiodefsas.notmetered
 meMA.Ode1C13.incipit = "O Father, you were nourished…"
 meMA.Ode1C13.text = "O Father, you were nourished with the sweetness of self-control, you rejected the bitterness of the passions, and thus you sweeten our souls more than honey and the honey-comb."
 
-meMA.Ode1C14.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C14.mode = misc_en_US_barrett.Mode8
+meMA.Ode1C14.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C14.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode1C14.melody = he.h.m8_en_US_barrett.YgranDiodefsas.notmetered
 meMA.Ode1C14.incipit = "O Titus, we celebrate you…"
 meMA.Ode1C14.text = "O Titus, we celebrate you as Paul's new disciple; for you imitated his struggles. O blessed man of God, you have been crowned with him."
 
-meMA.Ode1C1T.ode = misc_en_US_barrett.Ode1
-meMA.Ode1C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode1C1T.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_US_barrett.YgranDiodefsas.notmetered
 meMA.Ode1C1T.incipit = "O Mother of God, you…"
 meMA.Ode1C1T.text = "O Mother of God, you are higher than all of creation, and so, in these last times you alone conceived without a father the Word, as both God and man, from the Father without a mother."
 
-meMA.Ode3C1H.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode3C1H.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3C1H.melody = he.h.m8_en_US_barrett.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_US_barrett.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_US_barrett.SyEiToStereoma.text
 
-meMA.Ode3C11.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_US_barrett.SyEiToStereoma.notmetered
 meMA.Ode3C11.incipit = "O righteous Father Titus, as…"
 meMA.Ode3C11.text = "O righteous Father Titus, as myrrh of sanctification, you were infused completely with ascetic spices and became a sweet perfume unto our God"
 
-meMA.Ode3C12.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode3C12.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_US_barrett.SyEiToStereoma.notmetered
 meMA.Ode3C12.incipit = "O righteous one, abstinence was…"
 meMA.Ode3C12.text = "O righteous one, abstinence was your weapon and prayer was your breastplate, and so you defeated the powers of darkness, putting them to shame."
 
-meMA.Ode3C13.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode3C13.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_US_barrett.SyEiToStereoma.notmetered
 meMA.Ode3C13.incipit = "You wisely held back the…"
 meMA.Ode3C13.text = "You wisely held back the law of the flesh with the law of the Spirit, and you served the Lord lawfully."
 
-meMA.Ode3C14.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C14.mode = misc_en_US_barrett.Mode8
+meMA.Ode3C14.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C14.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3C14.melody = he.h.m8_en_US_barrett.SyEiToStereoma.notmetered
 meMA.Ode3C14.incipit = "O righteous Father, you fixed…"
 meMA.Ode3C14.text = "O righteous Father, you fixed all your desire and your mind upon yearning for Christ, and you held as nothing worldly cares."
 
-meMA.Ode3C1T.ode = misc_en_US_barrett.Ode3
-meMA.Ode3C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode3C1T.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_US_barrett.SyEiToStereoma.notmetered
 meMA.Ode3C1T.incipit = "O LADY, I entreat you…"
 meMA.Ode3C1T.text = "O LADY, I entreat you that, at your prayers, He born of you may be merciful to me on the day of judgment."
 
-meMA.Ode3Kathisma1.mode = misc_en_US_barrett.Mode4
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_barrett.misc.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_barrett.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "Wise Father, you shot up…"
 meMA.Ode3Kathisma1.text = "Wise Father, you shot up and brought forth abundant fruit of all righteousness as a tree that grew tall watered by unending rivers of tears. And so, wonderworking Titus, lovely flower of ascetics, we gather as we should to show you honor. And now, save us at your prayers to the Lord."
 
-meMA.Ode3Kathisma2.mode = misc_en_US_barrett.Mode4
+meMA.Ode3Kathisma2.mode = miscellanea_en_US_barrett.misc.Mode4
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_barrett.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma2.incipit = "O Titus, you left behind…"
 meMA.Ode3Kathisma2.text = "O Titus, you left behind the storm and stress of life. And so, O just Father, wise miracle-worker, since you lived your entire life in silence and stillness, you have passed over to dwell with God."
 
-meMA.Ode3KathismaT.mode = misc_en_US_barrett.Mode4
+meMA.Ode3KathismaT.mode = miscellanea_en_US_barrett.misc.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_US_barrett.EpefanisSimeron.notmetered
 meMA.Ode3KathismaT.incipit = "O pure Virgin, full of…"
 meMA.Ode3KathismaT.text = "O pure Virgin, full of grace, we run to your mighty shelter for refuge, and we all entreat you earnestly: plead without ceasing to the God who loves mankind that we your servants will be saved through your holy prayers."
 
-meMA.Ode3KathismaSt.mode = misc_en_US_barrett.Mode4
+meMA.Ode3KathismaSt.mode = miscellanea_en_US_barrett.misc.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_US_barrett.EpefanisSimeron.notmetered
 meMA.Ode3KathismaSt.incipit = "O Master, when your Mother…"
 meMA.Ode3KathismaSt.text = "O Master, when your Mother the Ewe saw that You were nailed upon the Cross, as your mother she wept and lamented for You, crying: I sing the praise of Your ineffable mercy, my sweetest Child."
 
-meMA.Ode4C1H.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode4C1H.melody = he.h.m8_en_US_barrett.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_US_barrett.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_US_barrett.EisakikoaKyrie.text
 
-meMA.Ode4C11.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_US_barrett.EisakikoaKyrie.notmetered
 meMA.Ode4C11.incipit = "O blessed Titus, you despised…"
 meMA.Ode4C11.text = "O blessed Titus, you despised all of sin’s rottenness, and you wounded the host of demons with the spear of asceticism."
 
-meMA.Ode4C12.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode4C12.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_US_barrett.EisakikoaKyrie.notmetered
 meMA.Ode4C12.incipit = "O all-blessed one, the desire…"
 meMA.Ode4C12.text = "O all-blessed one, the desire for purity pierced your soul. And so you zealously followed Christ, and entered into the bridal chamber of glory."
 
-meMA.Ode4C13.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode4C13.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_US_barrett.EisakikoaKyrie.notmetered
 meMA.Ode4C13.incipit = "You have bloomed with self-control…"
 meMA.Ode4C13.text = "You have bloomed with self-control as though you were a sweet-smelling meadow and a living garden of the virtues, with which you feed all that honor you."
 
-meMA.Ode4C14.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C14.mode = misc_en_US_barrett.Mode8
+meMA.Ode4C14.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C14.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode4C14.melody = he.h.m8_en_US_barrett.EisakikoaKyrie.notmetered
 meMA.Ode4C14.incipit = "We all call you blessed…"
 meMA.Ode4C14.text = "We all call you blessed, for in truth we hold you as like Moses and David, a lawgiver of asceticism and an icon of unerring meekness."
 
-meMA.Ode4C1T.ode = misc_en_US_barrett.Ode4
-meMA.Ode4C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode4C1T.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_US_barrett.EisakikoaKyrie.notmetered
 meMA.Ode4C1T.incipit = "O all-blameless one, you are…"
 meMA.Ode4C1T.text = "O all-blameless one, you are more exalted than the Cherubim and the Seraphim, and we praise you; for you have held in the flesh with your own arms Him before Whom all things tremble."
 
-meMA.Ode5C1H.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode5C1H.melody = he.h.m8_en_US_barrett.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_US_barrett.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_US_barrett.InaTiMeAposo.text
 
-meMA.Ode5C11.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_US_barrett.InaTiMeAposo.notmetered
 meMA.Ode5C11.incipit = "O blessed Titus, you quenched…"
 meMA.Ode5C11.text = "O blessed Titus, you quenched the passions with the mists of your struggles, and you built a fire of love and faith. And so you became a lamp of self-control, a beacon of passionlessness, and a son of the day."
 
-meMA.Ode5C12.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode5C12.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_US_barrett.InaTiMeAposo.notmetered
 meMA.Ode5C12.incipit = "O Father, you nurtured the…"
 meMA.Ode5C12.text = "O Father, you nurtured the grapes of faith with divine expertise, you put them in the winepress, and you pressed out the wine with ascetic struggles. And so you filled the spiritual cup of self-control, and you make the hearts of your flock to rejoice."
 
-meMA.Ode5C13.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode5C13.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_US_barrett.InaTiMeAposo.notmetered
 meMA.Ode5C13.incipit = "O righteous Father, you bravely…"
 meMA.Ode5C13.text = "O righteous Father, you bravely endured the attacks and wounds of the demons, you were a pillar of strength, you guided your flock in certainty with a divine staff, and you grazed your sheep in the pastures and the waters of self-control."
 
-meMA.Ode5C1T.ode = misc_en_US_barrett.Ode5
-meMA.Ode5C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode5C1T.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_US_barrett.InaTiMeAposo.notmetered
 meMA.Ode5C1T.incipit = "O immaculate and all-blameless Virgin…"
 meMA.Ode5C1T.text = "O immaculate and all-blameless Virgin, we all have you as our refuge, high wall, fortress, and stronghold, and a gateway into the Kingdom that can never fall. And so we entreat you that at your motherly intercessions, we may not miss the mark of our hope."
 
-meMA.Ode6C1H.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode6C1H.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode6C1H.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_US_barrett.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_US_barrett.IlasthitiMoiSotir.text
 
-meMA.Ode6C11.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.notmetered
 meMA.Ode6C11.incipit = "O righteous Titus, you endured…"
 meMA.Ode6C11.text = "O righteous Titus, you endured by many struggles and dangers for the Faith, and so you dispersed the foggy and dark night of passions, and you brought about the light of sunrise to illumine all your ways."
 
-meMA.Ode6C12.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode6C12.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.notmetered
 meMA.Ode6C12.incipit = "O God-inspired Titus, you loved…"
 meMA.Ode6C12.text = "O God-inspired Titus, you loved asceticism and were captivated thoroughly by God; you abandoned the world and the things of the ruler of the world, and you held fast to the delight of the Kingdom that is beyond the world."
 
-meMA.Ode6C13.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode6C13.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.notmetered
 meMA.Ode6C13.incipit = "You gathered to your soul…"
 meMA.Ode6C13.text = "You gathered to your soul the divine riches of grace, immaculate prayer, purity, holiness, and intense focus, and so you were acknowledged as a house of our God."
 
-meMA.Ode6C14.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C14.mode = misc_en_US_barrett.Mode8
+meMA.Ode6C14.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C14.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode6C14.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.notmetered
 meMA.Ode6C14.incipit = "O wise Father, you passed…"
 meMA.Ode6C14.text = "O wise Father, you passed over the crudeness of matter below, and in spiritual prayer you gave wings to your mind, and you became an heir of the inheritance of heaven through your blameless way of life."
 
-meMA.Ode6C1T.ode = misc_en_US_barrett.Ode6
-meMA.Ode6C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode6C1T.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_US_barrett.IlasthitiMoiSotir.notmetered
 meMA.Ode6C1T.incipit = "O all-blameless one, you truly…"
 meMA.Ode6C1T.text = "O all-blameless one, you truly conceived the Word of God in your womb and gave birth to Him who is beyond nature; at your intercessions make Him merciful, so that He may rescue all your servants from threats."
 
 //added poet
 meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
-meMA.Kontakion1.mode = misc_en_US_barrett.Mode4
+meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_US_barrett.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
-meMA.Ode7C1H.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode7C1H.melody = he.h.m8_en_US_barrett.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_US_barrett.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_US_barrett.OiEkTisIoudaias.text
 
-meMA.Ode7C11.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_US_barrett.OiEkTisIoudaias.notmetered
 meMA.Ode7C11.incipit = "O Father, for us you…"
 meMA.Ode7C11.text = "O Father, for us you were a river of abstinence never tainted with sins, drowning the passions, and washing away the stain of those who cry with faith: O God of our Fathers, blessed are You."
 
-meMA.Ode7C12.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode7C12.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_US_barrett.OiEkTisIoudaias.notmetered
 meMA.Ode7C12.incipit = "O blessed of God, you…"
 meMA.Ode7C12.text = "O blessed of God, you now are a member of the angelic choirs, and you enjoy ceaselessly the glory of the heavenly Kingdom. Watch over them that sing: O God of our Fathers, blessed are You."
 
-meMA.Ode7C13.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode7C13.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_US_barrett.OiEkTisIoudaias.notmetered
 meMA.Ode7C13.incipit = "O Father Titus, you were…"
 meMA.Ode7C13.text = "O Father Titus, you were steadfast and unchanging in your confession of faith; for in portraying and circumscribing Christ in the flesh, you worshipped Him and shouted: O God of our Fathers, blessed are You."
 
-meMA.Ode7C14.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C14.mode = misc_en_US_barrett.Mode8
+meMA.Ode7C14.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C14.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode7C14.melody = he.h.m8_en_US_barrett.OiEkTisIoudaias.notmetered
 meMA.Ode7C14.incipit = "O Father, you carry the…"
 meMA.Ode7C14.text = "O Father, you carry the marks of Jesus the Master on your body; heal me too, for I am wounded with the arrow of Belial, and I shout: O God of our Fathers, blessed are You."
 
-meMA.Ode7C1T.ode = misc_en_US_barrett.Ode7
-meMA.Ode7C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode7C1T.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_US_barrett.OiEkTisIoudaias.notmetered
 meMA.Ode7C1T.incipit = "O gracious Lady, you gave…"
 meMA.Ode7C1T.text = "O gracious Lady, you gave birth to the Master of all in a manner surpassing nature and rational thought, and with your breasts you fed Him that prepares a table for all in due season. Entreat him for us unceasingly."
 
-meMA.Ode8C1H.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode8C1H.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode8C1H.melody = he.h.m8_en_US_barrett.TonVasileaTonOuranon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_US_barrett.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_US_barrett.TonVasileaTonOuranon.text
 
-meMA.Ode8C11.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_US_barrett.TonVasileaTonOuranon.notmetered
 meMA.Ode8C11.incipit = "O Father Titus, we hold…"
 meMA.Ode8C11.text = "O Father Titus, we hold you as a living monument and image of self-control, and we honor your memory unto all the ages."
 
-meMA.Ode8C12.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode8C12.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_US_barrett.TonVasileaTonOuranon.notmetered
 meMA.Ode8C12.incipit = "The company of monastics rejoice…"
 meMA.Ode8C12.text = "The company of monastics rejoice, and the righteous and the just dance; for together with them you have been deemed worthy to win a crown."
 
-meMA.Ode8C13.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode8C13.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_US_barrett.TonVasileaTonOuranon.notmetered
 meMA.Ode8C13.incipit = "Being well-favored with the virtues…"
 meMA.Ode8C13.text = "Being well-favored with the virtues, you were summoned to the bridal chamber of ineffable glory, singing hymns to Christ unto all the ages."
 
-meMA.Ode8C14.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C14.mode = misc_en_US_barrett.Mode8
+meMA.Ode8C14.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C14.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode8C14.melody = he.h.m8_en_US_barrett.TonVasileaTonOuranon.notmetered
 meMA.Ode8C14.incipit = "You were clothed with the…"
 meMA.Ode8C14.text = "You were clothed with the priestly vestments, you performed the bloodless Sacrifice, and so you were offered as a sacrifice to God unto all the ages."
 
-meMA.Ode8C1T.ode = misc_en_US_barrett.Ode8
-meMA.Ode8C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode8C1T.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_US_barrett.TonVasileaTonOuranon.notmetered
 meMA.Ode8C1T.incipit = "O immaculate Virgin and Mother…"
 meMA.Ode8C1T.text = "O immaculate Virgin and Mother of God, you conceived in your womb Him that existed before you, and you ineffably gave birth to Christ the King."
 
-meMA.Ode9C1H.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C1H.mode = misc_en_US_barrett.Mode8
+meMA.Ode9C1H.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C1H.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode9C1H.melody = he.h.m8_en_US_barrett.TinAgninEndoxos.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_US_barrett.TinAgninEndoxos.incipit
 meMA.Ode9C1H.text = he.h.m8_en_US_barrett.TinAgninEndoxos.text
 
-meMA.Ode9C11.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C11.mode = misc_en_US_barrett.Mode8
+meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_US_barrett.TinAgninEndoxos.notmetered
 meMA.Ode9C11.incipit = "O blessed Titus, you were…"
 meMA.Ode9C11.text = "O blessed Titus, you were a doctor sent by God for those sick with passions, and you banished and chased away the evil demons. And so we call you blessed."
 
-meMA.Ode9C12.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C12.mode = misc_en_US_barrett.Mode8
+meMA.Ode9C12.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_US_barrett.TinAgninEndoxos.notmetered
 meMA.Ode9C12.incipit = "O Father, you abandoned the…"
 meMA.Ode9C12.text = "O Father, you abandoned the world as the dwelling place of corruption, and you lived in the land of the meek, with whom you rejoice, enjoying divine delight."
 
-meMA.Ode9C13.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C13.mode = misc_en_US_barrett.Mode8
+meMA.Ode9C13.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_US_barrett.TinAgninEndoxos.notmetered
 meMA.Ode9C13.incipit = "We magnify the Creator with…"
 meMA.Ode9C13.text = "We magnify the Creator with hymns, for we have your struggles as a permanent monument of faith and example of self-control."
 
-meMA.Ode9C14.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C14.mode = misc_en_US_barrett.Mode8
+meMA.Ode9C14.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode9C14.melody = he.h.m8_en_US_barrett.TinAgninEndoxos.notmetered
 meMA.Ode9C14.incipit = "Today is a day to…"
 meMA.Ode9C14.text = "Today is a day to celebrate; for Titus calls the flocks of monastics together to form a choir, and to enjoy a common banquet served with the food of immaculate life."
 
-meMA.Ode9C1T.ode = misc_en_US_barrett.Ode9
-meMA.Ode9C1T.mode = misc_en_US_barrett.Mode8
+meMA.Ode9C1T.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_US_barrett.TinAgninEndoxos.notmetered
 meMA.Ode9C1T.incipit = "O all-blameless one, when He…"
 meMA.Ode9C1T.text = "O all-blameless one, when He that dwelt in you was born, He defeated the destroyer of humanity that once wickedly caused our ancestors to stumble, and He saved us all."
