@@ -221,12 +221,20 @@ meMA.Ode6C1T.melody = he.h.m8_en_US_barrett.heHE.TinDeisinEkcheo.name
 meMA.Ode6C1T.incipit = "…"
 meMA.Ode6C1T.text = ""
 
-meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode2
-meMA.Kontakion1.melody = he.a.m6_en_US_barrett.heAU.TinEnPresveiais.name
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
+meMA.Kontakion1ger.poet = //poets_en_US_barrett.po.Gerasimou
+meMA.Kontakion1ger.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Kontakion1ger.melody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.name
+meMA.Kontakion1ger.incipit = "…"
+meMA.Kontakion1ger.text = ""
 
-meMA.Oikos1.text = ""
+meMA.Oikos1ger.text = ""
+meMA.Oikos12ger.text = ""
+meMA.Oikos13ger.text = ""
+meMA.Oikos14ger.text = ""
+meMA.Oikos15ger.text = ""
+meMA.Oikos16ger.text = ""
+meMA.Oikos17ger.text = ""
+meMA.Oikos18ger.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode8
@@ -334,10 +342,10 @@ meMA.ExapTheotokion.melody = he.a.m2_en_US_barrett.heAU.GynaikesAkoutisthite.nam
 meMA.ExapTheotokion.incipit = "…"
 meMA.ExapTheotokion.text = ""
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = meMA.Kontakion1ger.mode
+meLI.Kontakion1.melody = meMA.Kontakion1ger.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1ger.incipit
+meLI.Kontakion1.text = meMA.Kontakion1ger.text
 
 meMegalynarion.text = ""
 
