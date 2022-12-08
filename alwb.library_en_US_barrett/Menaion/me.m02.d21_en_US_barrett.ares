@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode8
+meVE.Stichera01.greekmelody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.greekname
 meVE.Stichera01.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
 meVE.Stichera01.incipit = "Father Timothy of godly mind…"
 meVE.Stichera01.text = "Father Timothy of godly mind, through your vast store of self-control, and a practice of constant prayer, utterly you did destroy untrained passions' unruliness, and you obtained the grace of dispassion, the divine spirit's vessel you thus became, ever did you expel all the evil spirits that did afflict us while you lived and after death, O blessed man of God."

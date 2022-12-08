@@ -20,6 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode4
+meVE.Stichera01.greekmelody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "O all-acclaimed of the Seventy…"
 meVE.Stichera01.text = "O all-acclaimed of the Seventy, you went out to all lands like swift soaring eagles, and you sowed your august teachings everywhere. You cut away worthless chaff of godless error with divine grace, you cultivated much fruit now stored eternally in the spiritual granaries and preserved in glory by the divine Immortal Vine-Dresser."
