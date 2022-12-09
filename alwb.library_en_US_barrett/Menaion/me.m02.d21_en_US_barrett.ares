@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "Father Timothy, the godly priest…"
 meVE.Stichera03.text = "Father Timothy, the godly priest, icon of discretion, illustration of self-control, paragon of piety, spring abundant of conscience, unshaken pillar of Orthodoxy, stream ever-flowing of healing medicines, sun that never sets, child of grace divine, you were seen thus to be monasticism's pride and joy, O most pious saint."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
+meVE.SticTheotokion.greekmelody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.greekname
 meVE.SticTheotokion.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
 meVE.SticTheotokion.incipit = "My entire life has been…"
 meVE.SticTheotokion.text = "My entire life has been depraved, my soul wholly wanton, my own body a shrine of sin, mind and spirit both impure, all defiled are all my works, I know that I deserve a reckoning of judgment and wrathful condemnation. Where ought I now to go and to where am I to flee if not to you? Lady, show compassion now and come to save me, I pray."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
+meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.heAU.OTouParadoxou.name
 meVE.SticStavrotheotokion.incipit = he.a.m8_en_US_barrett.heAU.OTouParadoxou.incipit
 meVE.SticStavrotheotokion.text = he.a.m8_en_US_barrett.heAU.OTouParadoxou.text

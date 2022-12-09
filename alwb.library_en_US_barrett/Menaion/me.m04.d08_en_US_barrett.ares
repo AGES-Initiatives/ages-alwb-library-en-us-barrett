@@ -36,11 +36,13 @@ meVE.Stichera03.incipit = "O honorable Apostles and seers…"
 meVE.Stichera03.text = "O honorable Apostles and seers of God, you are foundations of the Church, guides who save the pious, unshakeable towers, peaceful refuges of piety, and ministers of ineffable mysteries past telling. You light the way for our hearts and souls, you have noble and lofty minds, and you were holy heavens that declared the glory of God Who willingly took on flesh."
 
 meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode4
+meVE.SticTheotokion.greekmelody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.greekname
 meVE.SticTheotokion.melody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.notmetered
 meVE.SticTheotokion.incipit = "O all-pure Mother of our…"
 meVE.SticTheotokion.text = "O all-pure Mother of our God, you are blameless and incorrupt, and your great holiness is incomparable. Although I am accursed and all-unclean, and the inventor of terribly evil and disgraceful deeds, do not cast me away, and do not abandon me to death, but save me from passions as I repent."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode4
+meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.greekname
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.incipit = "O all-pure Maiden, you wept…"
 meVE.SticStavrotheotokion.text = "O all-pure Maiden, you wept bitterly and lamented, and He who took flesh from your womb in a manner surpassing all reason showed you compassion and mercy, and with dew He refreshed your soul when He cried out as your Son: O Mother and Virgin Maiden, stop your weeping. I suffer willingly and will die, but I will rise and glorify those that reverently magnify you."
