@@ -66,6 +66,7 @@ meMA.C1.verse = //prayers_en_US_barrett.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode1C11.greekmelody = he.h.m5_en_US_barrett.heHE.IpponKaiAnavatin.greekname
 meMA.Ode1C11.melody = he.h.m5_en_US_barrett.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C11.incipit = "O righteous Andrew…"
 meMA.Ode1C11.text = "O righteous Andrew, you shook off sleep from your eyelids and prepared yourself through virtue to be the Master's radiant dwelling place, and in this way you became a dwelling place for God and you revealed divine things."
@@ -90,6 +91,7 @@ meMA.Ode1C1T.text = "O all-blameless Virgin, your Son and God is all desire, unt
 
 meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode3C11.greekmelody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.greekname
 meMA.Ode3C11.melody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.notmetered
 meMA.Ode3C11.incipit = "O righteous Andrew…"
 meMA.Ode3C11.text = "O righteous Andrew, you directed your life with virtue, and since you were united to God by divine yearning, you were revealed as Christ's eloquent instrument; and endowed by the divine treasuries, you brightened the entire world with your melodies."
@@ -114,6 +116,7 @@ meMA.Ode3C1T.text = "O all-blameless Mother of God, you miraculously conceived t
 
 meMA.Ode3H.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode3H.greekmelody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.greekname
 meMA.Ode3H.melody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.melody
 meMA.Ode3H.incipit = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.incipit
 meMA.Ode3H.text = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.text
@@ -135,6 +138,7 @@ meMA.Ode3KathismaSt.text = "The Ewe saw the Redeemer and Shepherd and Lamb of Go
 
 meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode4C11.greekmelody = he.h.m5_en_US_barrett.heHE.TinTheianEnnoisas.greekname
 meMA.Ode4C11.melody = he.h.m5_en_US_barrett.heHE.TinTheianEnnoisas.notmetered
 meMA.Ode4C11.incipit = "O God-inspired Andrew…"
 meMA.Ode4C11.text = "O God-inspired Andrew, your words were ornamented by your life. They clearly explained the glory of the All-hymned Trinity, and proved to be a guide of exact theology."
@@ -165,6 +169,7 @@ meMA.Ode4C1T.text = "You conceived in your womb without union and with corruptio
 
 meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode5C11.greekmelody = he.h.m5_en_US_barrett.heHE.OAnavallomenos.greekname
 meMA.Ode5C11.melody = he.h.m5_en_US_barrett.heHE.OAnavallomenos.notmetered
 meMA.Ode5C11.incipit = "O all-blessed Andrew, we are sanctified…"
 meMA.Ode5C11.text = "O all-blessed Andrew, we are sanctified by your teachings and take divine delight from your God-inspired melodies, and we honor your commemoration."
@@ -189,6 +194,7 @@ meMA.Ode5C1T.text = "O all-blameless Virgin, I tearfully fall down before you an
 
 meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode6C11.greekmelody = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.greekname
 meMA.Ode6C11.melody = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.notmetered
 meMA.Ode6C11.incipit = "O initiate of sacred mysteries…"
 meMA.Ode6C11.text = "O initiate of sacred mysteries, you eloquently rebuked the godless with your resonant mouth; for truly and clearly, you vindicated the worship of the venerable icons."
@@ -213,6 +219,7 @@ meMA.Ode6C1T.text = "O all-blameless Bride of God, the Beginningless One shone f
 
 meMA.Ode6H.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode6H.greekmelody = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.greekname
 meMA.Ode6H.melody = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.melody
 meMA.Ode6H.incipit = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.text
@@ -224,6 +231,7 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode7C11.greekmelody = he.h.m5_en_US_barrett.heHE.OYperypsoumenos.greekname
 meMA.Ode7C11.melody = he.h.m5_en_US_barrett.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C11.incipit = "O righteous Andrew,…"
 meMA.Ode7C11.text = "O righteous Andrew, you enriched your life splendid with your deeds so that you might behold the Saints' glory in the spirit, and thus you cried out: blessed are You, O God."
@@ -248,6 +256,7 @@ meMA.Ode7C1T.text = "O all-pure Virgin, He who was previously bodiless now recei
 
 meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode8C11.greekmelody = he.h.m5_en_US_barrett.heHE.SoiToPantourgo.greekname
 meMA.Ode8C11.melody = he.h.m5_en_US_barrett.heHE.SoiToPantourgo.notmetered
 meMA.Ode8C11.incipit = "O Father, you joyously leapt…"
 meMA.Ode8C11.text = "O Father, you joyously leapt before the new ark of the Church, forming choirs and crying out: O all you works, sing a hymn to Christ, and exalt Him beyond measure unto all the ages."
@@ -272,12 +281,14 @@ meMA.Ode8C1T.text = "Come, let us praise the pure Theotokos and Maiden, saying w
 
 meMA.Ode8H.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode8H.greekmelody = he.h.m5_en_US_barrett.heHE.SoiToPantourgo.greekname
 meMA.Ode8H.melody = he.h.m5_en_US_barrett.heHE.SoiToPantourgo.melody
 meMA.Ode8H.incipit = he.h.m5_en_US_barrett.heHE.SoiToPantourgo.incipit
 meMA.Ode8H.text = he.h.m5_en_US_barrett.heHE.SoiToPantourgo.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode9C11.greekmelody = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.greekname
 meMA.Ode9C11.melody = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.notmetered
 meMA.Ode9C11.incipit = "O blessed Andrew…"
 meMA.Ode9C11.text = "O blessed Andrew, the sound of your words and the delight and truth of your teachings has traversed the entire earth, and so Christ the King of all has crowned you with the crown of majesty."
@@ -302,6 +313,7 @@ meMA.Ode9C1T.text = "O Theotokos and Virgin Mother, you disarmed the encroaching
 
 meMA.Ode9H.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_US_barrett.misc.Mode5
+meMA.Ode9H.greekmelody = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.greekname
 meMA.Ode9H.melody = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.melody
 meMA.Ode9H.incipit = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.incipit
 meMA.Ode9H.text = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.text

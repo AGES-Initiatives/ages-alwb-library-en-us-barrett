@@ -62,12 +62,14 @@ meMA.C1.verse = //prayers_en_US_barrett.pr.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_US_barrett.heHE.DefteLaoi.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_US_barrett.heHE.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_barrett.heHE.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_barrett.heHE.DefteLaoi.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_barrett.heHE.DefteLaoi.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_barrett.heHE.DefteLaoi.notmetered
 meMA.Ode1C11.incipit = "O righteous father George, you…"
 meMA.Ode1C11.text = "O righteous father George, you were enlightened with the thrice-brilliant glory of God’s kingship, you abandoned the world and the fog of the passions, and you were renowned for your wonderful way of life."
@@ -92,12 +94,14 @@ meMA.Ode1C1T.text = "O all-blameless Virgin, we confess you to be the all-pure T
 
 meMA.Ode3C1H.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_US_barrett.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_US_barrett.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_barrett.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_barrett.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_barrett.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_barrett.heHE.StereosonImasEnSoiKyrie.notmetered
 meMA.Ode3C11.incipit = "O all-blessed George, you walked…"
 meMA.Ode3C11.text = "O all-blessed George, you walked the beaten paths of life to the age without end, you walked them straightforwardly with joy, and you lived in the eternal mansions."
@@ -137,12 +141,14 @@ meMA.Ode3KathismaSt.text = //oc.m3.d4_en_US_barrett.ocMA.Kathisma23.text "O Chri
 
 meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_US_barrett.heHE.EisakikoaKyrieTinAkoin.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_barrett.heHE.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_barrett.heHE.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_barrett.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_barrett.heHE.EisakikoaKyrieTinAkoin.notmetered
 meMA.Ode4C11.incipit = "O blessed George, you were…"
 meMA.Ode4C11.text = "O blessed George, you were dressed with the beauties of virtue, and you rose up to God arrayed in light."
@@ -173,12 +179,14 @@ meMA.Ode4C1T.text = "O immaculate one, we praise Him Who was enfleshed in your w
 
 meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_US_barrett.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_US_barrett.heHE.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_barrett.heHE.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_barrett.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_barrett.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_barrett.heHE.OTouFotosChorigos.notmetered
 meMA.Ode5C11.incipit = "O wise and all-blessed Father…"
 meMA.Ode5C11.text = "O wise and all-blessed Father, you proceeded in your divine ascents, you were strengthened with hope, love, and faith, and you achieved joy and immortality."
@@ -203,12 +211,14 @@ meMA.Ode5C1T.text = "O Lady and Maiden, the mystery of your childbirth is truly 
 
 meMA.Ode6C1H.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "O blessed and all-celebrated George…"
 meMA.Ode6C11.text = "O blessed and all-celebrated George, you fiercely persecuted the spirits of evil, and you were given strength through the cooperation of the Holy Spirit."
@@ -239,12 +249,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_barrett.heHE.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_barrett.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "O Father George, you were…"
 meMA.Ode7C11.text = "O Father George, you were strengthened in your soul with Christ's power, you drove away the hordes of those that hated you with his power, and you brandished at them the Cross that protected you, as you sang: Blessed are You, O Lord our God, the God of our Fathers."
@@ -269,12 +281,14 @@ meMA.Ode7C1T.text = "As one who never knew marriage, you are the lampstand of th
 
 meMA.Ode8C1H.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "O father George, you were…"
 meMA.Ode8C11.text = "O father George, you were taken up to indestructible life, to unfading joy, to eternal glory, and to the never-setting light; for you are the harvest of God, and we exalt you supremely forever."
@@ -299,12 +313,14 @@ meMA.Ode8C1T.text = "O pure Mother of God, the Fruit of your womb is for me the 
 
 meMA.Ode9C1H.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_US_barrett.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_US_barrett.heHE.TonEkTheouTheonLogon.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_barrett.heHE.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_barrett.heHE.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_barrett.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_barrett.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C11.incipit = "O all-blessed George, you were…"
 meMA.Ode9C11.text = "O all-blessed George, you were strong in your faith, you were guarded by Christ’s power, you rent asunder the demons’ nets; you escaped all their snares and machinations, and with joy you come into the presence of the Master of all."

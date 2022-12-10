@@ -62,12 +62,14 @@ meMA.C1.verse = //prayers_en_US_barrett.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_US_barrett.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_US_barrett.heHE.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_US_barrett.heHE.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_US_barrett.heHE.OsEnIpeiroPezefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_US_barrett.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_US_barrett.heHE.OsEnIpeiroPezefsas.notmetered
 meMA.Ode1C11.incipit = "O wise Eutychius, you prospered…"
 meMA.Ode1C11.text = "O wise Eutychius, you prospered in the virtues and shine with the bright beams of God’s grace. At your intercessions, save me from the misfortune of my passions so that I may praise you."
@@ -92,12 +94,14 @@ meMA.Ode1C1T.text = "O immaculate one, you carried your own Fashioner who was in
 
 meMA.Ode3C1H.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_US_barrett.heHE.OukEstinAgios.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_US_barrett.heHE.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_US_barrett.heHE.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_US_barrett.heHE.OukEstinAgios.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_US_barrett.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_US_barrett.heHE.OukEstinAgios.notmetered
 meMA.Ode3C11.incipit = "O glorious Hierarch Eutychius, you…"
 meMA.Ode3C11.text = "O glorious Hierarch Eutychius, you fastidiously washed off the muck of the passions, O God-bearer, and you became a temple of the Holy Spirit."
@@ -143,12 +147,14 @@ meMA.Ode3KathismaSt.text = "All-gracious Lord, You bear now this Passion volunta
 
 meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_US_barrett.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_US_barrett.heHE.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_US_barrett.heHE.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_US_barrett.heHE.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_US_barrett.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_US_barrett.heHE.ChristosMouDynamis.notmetered
 meMA.Ode4C11.incipit = "O all-wise Eutychius, you were…"
 meMA.Ode4C11.text = "O all-wise Eutychius, you were radiant with the splendor of divine grace, you cast all the errors of the heretics into darkness, and because of you the companies of Orthodox people were bright with joy."
@@ -179,12 +185,14 @@ meMA.Ode4C1T.text = "O Ever-virgin Theotokos, how truly ineffable and incomprehe
 
 meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_US_barrett.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_US_barrett.heHE.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_US_barrett.heHE.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_US_barrett.heHE.ToTheioFengeiSou.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_US_barrett.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_US_barrett.heHE.ToTheioFengeiSou.notmetered
 meMA.Ode5C11.incipit = "O wise Father, you bravely…"
 meMA.Ode5C11.text = "O wise Father, you bravely endured separation from your appointed flock, and you were unjustly cast out; but you returned to them with joy and were renowned among all people."
@@ -209,12 +217,14 @@ meMA.Ode5C1T.text = "O gracious Sovereign Lady of the world, save those who conf
 
 meMA.Ode6C1H.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_US_barrett.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_US_barrett.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_US_barrett.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_US_barrett.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_US_barrett.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_US_barrett.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C11.incipit = "O godly-minded Eutychius, the troubling…"
 meMA.Ode6C11.text = "O godly-minded Eutychius, the troubling of the passions did not soil you, for the Trinity dwelled in you and filled you with grace with which you cast away every affliction."
@@ -245,12 +255,14 @@ meMA.Kontakion1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_US_barrett.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_US_barrett.heHE.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_US_barrett.heHE.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_US_barrett.heHE.DrosovolonMenTinKaminon.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_US_barrett.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_US_barrett.heHE.DrosovolonMenTinKaminon.notmetered
 meMA.Ode7C11.incipit = "O Father, you had a…"
 meMA.Ode7C11.text = "O Father, you had a soul white as snow and bright with the virtues, and you were like the Angels. And so you dance joyfully with them, crying: \"O God of our fathers, blessed are You.\""
@@ -275,12 +287,14 @@ meMA.Ode7C1T.text = "O all-blameless and ever-virgin Mother, we that are mortal 
 
 meMA.Ode8C1H.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_US_barrett.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_US_barrett.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_US_barrett.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_US_barrett.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_US_barrett.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_US_barrett.heHE.EkFlogosToisOsiois.notmetered
 meMA.Ode8C11.incipit = "O Father, you woke from…"
 meMA.Ode8C11.text = "O Father, you woke from the sleep of carelessness and were aware of the virtues. You did not sleep again until you were a dwelling-place of the God of Jacob, and unto all the ages supremely we exalt Him."
@@ -311,12 +325,14 @@ meMA.Ode8C1T.text = "O immaculate one, you escaped hardship by giving birth, and
 
 meMA.Ode9C1H.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_US_barrett.heHE.TheonAnthropois.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_US_barrett.heHE.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_US_barrett.heHE.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_US_barrett.heHE.TheonAnthropois.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_US_barrett.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_US_barrett.heHE.TheonAnthropois.notmetered
 meMA.Ode9C11.incipit = "You traded small things for…"
 meMA.Ode9C11.text = "You traded small things for the largest, and you expertly exchanged the corruptible for the incorruptible. You took possession of the unshakeable Kingdom, you have the glory that never passes away, and you are well-favored with the beauty of your virtues."

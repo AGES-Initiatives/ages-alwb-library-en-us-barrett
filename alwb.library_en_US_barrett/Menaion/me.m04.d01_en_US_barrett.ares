@@ -83,12 +83,14 @@ meMA.C1.verse = //prayers_en_US_barrett.pr.verse_DevoutWoman.text
 
 meMA.Ode1C1H.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C11.melody = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.notmetered
 meMA.Ode1C11.incipit = "O glorious Mary, since you…"
 meMA.Ode1C11.text = "O glorious Mary, since you have now found the illumination of bright-shining splendor and illuminating brilliance, I entreat you, with your prayers to the Lord enlighten my soul that is overshadowed by the passions."
@@ -119,12 +121,14 @@ meMA.Ode1C1T.text = "O Full of Grace, you conceived the enhypostatic and life-st
 
 meMA.Ode3C1H.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EnPetraMeTisPisteos.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_US_barrett.heHE.EnPetraMeTisPisteos.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_US_barrett.heHE.EnPetraMeTisPisteos.incipit
 meMA.Ode3C1H.text = he.h.m2_en_US_barrett.heHE.EnPetraMeTisPisteos.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_US_barrett.heHE.EnPetraMeTisPisteos.greekname
 meMA.Ode3C11.melody = he.h.m2_en_US_barrett.heHE.EnPetraMeTisPisteos.notmetered
 meMA.Ode3C11.incipit = "You soared aloft on divine…"
 meMA.Ode3C11.text = "You soared aloft on divine longing that surpasses all; you threw aside vainglory and drew near the Master, crying: no one is holy as our most holy God, and no one is righteous but You, O Lord Most High."
@@ -164,12 +168,14 @@ meMA.Ode3KathismaSt.text = "O Savior, Shepherd, and Lamb of God, when the pure E
 
 meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_US_barrett.heHE.YmnoSeAkoi.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_US_barrett.heHE.YmnoSeAkoi.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_US_barrett.heHE.YmnoSeAkoi.incipit
 meMA.Ode4C1H.text = he.h.m2_en_US_barrett.heHE.YmnoSeAkoi.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_US_barrett.heHE.YmnoSeAkoi.greekname
 meMA.Ode4C11.melody = he.h.m2_en_US_barrett.heHE.YmnoSeAkoi.notmetered
 meMA.Ode4C11.incipit = "O glorious Mary, you were…"
 meMA.Ode4C11.text = "O glorious Mary, you were taken from your country, and you sailed providentially to the land of Zion because of your desire; and through your confession there, O righteous Mother, you were absolved from your sins."
@@ -200,12 +206,14 @@ meMA.Ode4C1T.text = "O all-pure Virgin, the one who has given all things their b
 
 meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_US_barrett.heHE.OFotismos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_US_barrett.heHE.OFotismos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_US_barrett.heHE.OFotismos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_US_barrett.heHE.OFotismos.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_US_barrett.heHE.OFotismos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_barrett.heHE.OFotismos.notmetered
 meMA.Ode5C11.incipit = "O godly-minded Mary, you made…"
 meMA.Ode5C11.text = "O godly-minded Mary, you made your way to the divine path free of passions, figuratively departing this life. You crossed the Jordan's waters with longing and achieved unspeakable glory."
@@ -236,12 +244,14 @@ meMA.Ode5C1T.text = "O Virgin, we know that you are the Sun of Glory's dawn, the
 
 meMA.Ode6C1H.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "O all-blessed Mary, you were…"
 meMA.Ode6C11.text = "O all-blessed Mary, you were thoroughly enrapt with longing for Christ's appearance; you were strengthened by the Spirit, and you repelled the attacks of passions."
@@ -273,12 +283,14 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_US_barrett.heHE.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_US_barrett.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "The self-aggrandizing destroyer who puffs…"
 meMA.Ode7C11.text = "The self-aggrandizing destroyer who puffs himself up immeasurably and who seeks to conquer the entire earth, is conquered through a woman; he slew man and cast him from life-giving paradise, and he himself is now slain."
@@ -309,12 +321,14 @@ meMA.Ode7C1T.text = "O hallowed Virgin Mother, the Incomprehensible One takes fl
 
 meMA.Ode8C1H.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.incipit
 meMA.Ode8C1H.text = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C11.melody = he.h.m2_en_US_barrett.heHE.TonEnKaminoTouPyros.notmetered
 meMA.Ode8C11.incipit = "You are brilliantly arrayed in…"
 meMA.Ode8C11.text = "You are brilliantly arrayed in bright rays of virtues, and the sound of your works has now gone out into the whole  world; and so we glorify your memory in faith."
@@ -339,12 +353,14 @@ meMA.Ode8C1T.text = "O Savior, since you are God, you truly appeared on earth be
 
 meMA.Ode9C1H.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.incipit
 meMA.Ode9C1H.text = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.text
 
 meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.notmetered
 meMA.Ode9C11.incipit = "O all-blessed Mary, you partook…"
 meMA.Ode9C11.text = "O all-blessed Mary, you partook of the Mysteries with longing, you were filled with glorious radiance, and you were assured to have your Bridegroom's ineffable grace. And so you were judged worthy of a most blessed and divine translation."
