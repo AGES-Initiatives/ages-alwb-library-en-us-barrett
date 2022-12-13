@@ -137,11 +137,13 @@ meMA.Ode3C1T.incipit = "O LADY, I entreat you…"
 meMA.Ode3C1T.text = "O LADY, I entreat you that, at your prayers, He born of you may be merciful to me on the day of judgment."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_barrett.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_US_barrett.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "Wise Father, you shot up…"
 meMA.Ode3Kathisma1.text = "Wise Father, you shot up and brought forth abundant fruit of all righteousness as a tree that grew tall watered by unending rivers of tears. And so, wonderworking Titus, lovely flower of ascetics, we gather as we should to show you honor. And now, save us at your prayers to the Lord."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma2.incipit = "O Titus, you left behind…"
 meMA.Ode3Kathisma2.text = "O Titus, you left behind the storm and stress of life. And so, O just Father, wise miracle-worker, since you lived your entire life in silence and stillness, you have passed over to dwell with God."

@@ -125,6 +125,7 @@ meMA.Ode3C1T.incipit = "O Virgin Mother of God…"
 meMA.Ode3C1T.text = "O Virgin Mother of God, we entreat you to be the security, the refuge, and the shelter of those who put their faith in you and proclaim you to be the Mother of God."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_barrett.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_barrett.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_barrett.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma1.incipit = "O father George, you desired…"
 meMA.Ode3Kathisma1.text = "O father George, you desired Christ who is greatly beautiful while despising fleshly passions, and although you dwelt on earth, you lived the holy angelic life. And so we commemorate your repose in holiness, and we all venerate the shrine of your relics. From there you bring healings to us who now honor you with longing."
