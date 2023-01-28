@@ -49,6 +49,7 @@ meVE.SticStavrotheotokion.text = me.m02.d20_en_US_barrett.meVE.SticStavrotheotok
 
 meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode1
+meVE.Apolytikion1.greekmelody = he.a.m1_en_US_barrett.heAU.TisErimouPolitis.greekname
 meVE.Apolytikion1.melody = he.a.m1_en_US_barrett.heAU.TisErimouPolitis.name
 meVE.Apolytikion1.incipit = ""
 meVE.Apolytikion1.text = ""

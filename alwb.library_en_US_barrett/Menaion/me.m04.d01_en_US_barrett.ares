@@ -70,6 +70,7 @@ meVE.GeneralApolytikion1.name = ""
 
 meVE.Apolytikion2.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_US_barrett.misc.Mode5
+meVE.Apolytikion2.greekmelody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion2.melody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""

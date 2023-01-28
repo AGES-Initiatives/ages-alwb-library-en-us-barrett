@@ -49,12 +49,14 @@ meVE.SticStavrotheotokion.text = he.a.m8_en_US_barrett.heAU.OTouParadoxou.text
 
 meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode5
+meVE.Apolytikion1.greekmelody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion1.melody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.poet = //poets_en_US_barrett.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_US_barrett.misc.Mode3
+meVE.Apolytikion2.greekmelody = he.a.m3_en_US_barrett.heAU.TheiasPisteos.greekname
 meVE.Apolytikion2.melody = he.a.m3_en_US_barrett.heAU.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
