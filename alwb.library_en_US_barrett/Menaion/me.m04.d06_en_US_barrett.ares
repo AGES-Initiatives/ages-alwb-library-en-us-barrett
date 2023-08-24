@@ -251,6 +251,7 @@ meMA.Ode6C1T.text = "O all-pure Lady, who gave birth to the Lord Pilot for human
 
 meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -364,6 +365,7 @@ meMA.Ode9C1T.incipit = "O pure Virgin, your power…"
 meMA.Ode9C1T.text = "O pure Virgin, your power and your grace make me strong, and so I dedicate a song to you with all my heart. I entreat you to receive it, and grant to me in return the most luminous grace of your immaculate treasuries, O blessed of God."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

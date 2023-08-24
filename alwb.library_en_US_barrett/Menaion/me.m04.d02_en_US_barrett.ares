@@ -270,6 +270,7 @@ meMA.Ode6C1T.text = "O all-blameless one, you truly conceived the Word of God in
 //added poet
 meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -389,6 +390,7 @@ meMA.Ode9C1T.incipit = "O all-blameless one, when He…"
 meMA.Ode9C1T.text = "O all-blameless one, when He that dwelt in you was born, He defeated the destroyer of humanity that once wickedly caused our ancestors to stumble, and He saved us all."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

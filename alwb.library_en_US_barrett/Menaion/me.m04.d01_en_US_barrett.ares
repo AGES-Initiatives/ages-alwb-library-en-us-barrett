@@ -277,6 +277,7 @@ meMA.Ode6C1T.incipit = "O all-blameless one, you are…"
 meMA.Ode6C1T.text = "O all-blameless one, you are the King's throne that is above the Heavens; for you contained in your own body his entire divine kingship."
 
 meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -392,6 +393,7 @@ meMA.Ode9C1T.incipit = "O Virgin and Lady, you…"
 meMA.Ode9C1T.text = "O Virgin and Lady, you are higher than all created things. You ineffably carried the Master of all physically in your womb, and you nourished Him with milk as his mother. And so we all magnify you."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

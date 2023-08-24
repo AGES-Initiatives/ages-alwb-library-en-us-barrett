@@ -238,6 +238,7 @@ meMA.Ode6C1T.text = "O Bride of God, the ark of the Law was an image of you, sin
 
 meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_US_barrett.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_US_barrett.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -351,6 +352,7 @@ meMA.Ode9C1T.incipit = "O immaculate and laudable Virgin…"
 meMA.Ode9C1T.text = "O immaculate and laudable Virgin, you were like tongs that carry flame, for you received in your womb the spiritual Coal that burns up our passions, enlightens our souls, and shines light on the darkness of idolatry."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

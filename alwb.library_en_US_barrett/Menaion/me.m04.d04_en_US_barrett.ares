@@ -245,6 +245,7 @@ meMA.Ode6C1T.text = "O Ever-virgin Mother, I set the hopes of my salvation on yo
 
 meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
 meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
@@ -346,6 +347,7 @@ meMA.Ode9C1T.incipit = "O all-hymned Virgin, you alone…"
 meMA.Ode9C1T.text = "O all-hymned Virgin, you alone bore to the incarnate Word who previously had no flesh for the rebirth and salvation of all mortals, since He is God of God; and so we the faithful magnify you with hymns."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
