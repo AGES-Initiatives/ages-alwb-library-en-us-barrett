@@ -1,38 +1,11 @@
 A_Resource_Whose_Name = me.m10.d28_en_US_barrett
 
-alt1.meDA.date = ""
-alt1.meDA.commemoration.full = "" //full title of day
-alt1.meDA.commemoration.first_short = ""
-
-alt1.meDA.commemoration.first_title = ""
-alt1.meDA.commemoration.first_name = ""
-alt1.meDA.commemoration.second_title = ""
-alt1.meDA.commemoration.second_name = ""
-alt1.meDA.insert1 = "" //for use in petitions and dismissal
-alt1.meDA.insert2 = "" //for use in petitions and dismissal
-alt1.meDA.note = ""
-alt1.meLE.commemoration1 = ""
-alt1.meLE.commemoration2 = ""
-alt1.meHO.number = ""
-alt1.meHO.rank = ""
-alt1.meHO.commemorations = ""
-alt1.meHO.note1 = ""
-alt1.meHO.note2 = ""
 
 alt1.meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode8
 alt1.meMA.Kontakion1.greekmelody = he.a.m8_en_US_barrett.heAU.TiYpermacho.greekname
 alt1.meMA.Kontakion1.melody = he.a.m8_en_US_barrett.heAU.TiYpermacho.name
 alt1.meMA.Kontakion1.incipit = "Just as a bright cloud…"
 alt1.meMA.Kontakion1.text = "Just as a bright cloud giving shade to the entire Church, * All-pure Defender, for our times of need in days of old, * on the royal city's walls you were our protection. * To us your people, whose Protecting Veil you are today, * grant a sure defense from every danger we may face, * as we cry to you: * Hail, Protection most radiant!"
-
-alt1.meMA.Oikos1.text = ""
-alt1.meMA.Oikos12.text = ""
-alt1.meMA.Oikos13.text = ""
-alt1.meMA.Oikos14.text = ""
-alt1.meMA.Oikos15.text = ""
-alt1.meMA.Oikos16.text = ""
-alt1.meMA.Oikos17.text = ""
-alt1.meMA.Oikos18.text = ""
 
 alt1.meLI.Kontakion1.mode = alt1.meMA.Kontakion1.mode
 alt1.meLI.Kontakion1.melody = alt1.meMA.Kontakion1.melody

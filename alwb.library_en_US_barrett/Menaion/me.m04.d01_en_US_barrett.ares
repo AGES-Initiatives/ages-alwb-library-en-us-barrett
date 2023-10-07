@@ -1,80 +1,5 @@
 A_Resource_Whose_Name = me.m04.d01_en_US_barrett
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode6
-meVE.Stichera01.greekmelody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.greekname
-meVE.Stichera01.melody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.name
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_barrett.misc.Mode6
-meVE.Stichera02.melody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.name
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_barrett.misc.Mode6
-meVE.Stichera03.melody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.name
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode6
-meVE.SticTheotokion.greekmelody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.greekname
-meVE.SticTheotokion.melody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.name
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = //oc.m6.d4_en_US_barrett.ocVE.Stichera4.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode6
-meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.greekname
-meVE.SticStavrotheotokion.melody = he.a.m6_en_US_barrett.heAU.OlinApothemenoi.name
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = //oc.m6.d4_en_US_barrett.ocVE.SticTheotokion.text
-
-meVE.SticGlory.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "…"
-meVE.SticGlory.text = ""
-
-meVE.SticTheotokion2.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.SticTheotokion2.greekmelody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion2.melody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.name
-meVE.SticTheotokion2.incipit = "…"
-meVE.SticTheotokion2.text = ""
-
-meVE.SticStavrotheotokion2.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.SticStavrotheotokion2.greekmelody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.greekname
-meVE.SticStavrotheotokion2.melody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.name
-meVE.SticStavrotheotokion2.incipit = "…"
-meVE.SticStavrotheotokion2.text = ""
-
-meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Apolytikion1.melody = //he.ga_en_US_barrett.heGA.EnSoiMiterAkrivos.name
-meVE.GeneralApolytikion1.name = ""
-
-meVE.Apolytikion2.poet = //poets_en_US_barrett.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_barrett.misc.Mode5
-meVE.Apolytikion2.greekmelody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.greekname
-meVE.Apolytikion2.melody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.name
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -276,14 +201,6 @@ meMA.Ode6C1T.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "O all-blameless one, you are…"
 meMA.Ode6C1T.text = "O all-blameless one, you are the King's throne that is above the Heavens; for you contained in your own body his entire divine kingship."
 
-meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode3
-meMA.Kontakion1.greekmelody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.greekname
-meMA.Kontakion1.melody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
-meMA.Oikos1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode7C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.greekname
@@ -391,14 +308,3 @@ meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.notmetered
 meMA.Ode9C1T.incipit = "O Virgin and Lady, you…"
 meMA.Ode9C1T.text = "O Virgin and Lady, you are higher than all created things. You ineffably carried the Master of all physically in your womb, and you nourished Him with milk as his mother. And so we all magnify you."
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_barrett.media.key
-
-meLI.Megalynarion.text = ""
-

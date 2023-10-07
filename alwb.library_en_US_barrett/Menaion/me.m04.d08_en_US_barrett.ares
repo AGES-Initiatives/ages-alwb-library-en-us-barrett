@@ -1,24 +1,5 @@
 A_Resource_Whose_Name = me.m04.d08_en_US_barrett
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
 meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode4
 meVE.Stichera01.greekmelody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.greekname
 meVE.Stichera01.melody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.notmetered
@@ -46,13 +27,6 @@ meVE.SticStavrotheotokion.greekmelody = he.a.m4_en_US_barrett.heAU.OsGennaionEnM
 meVE.SticStavrotheotokion.melody = he.a.m4_en_US_barrett.heAU.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.incipit = "O all-pure Maiden, you wept…"
 meVE.SticStavrotheotokion.text = "O all-pure Maiden, you wept bitterly and lamented, and He who took flesh from your womb in a manner surpassing all reason showed you compassion and mercy, and with dew He refreshed your soul when He cried out as your Son: O Mother and Virgin Maiden, stop your weeping. I suffer willingly and will die, but I will rise and glorify those that reverently magnify you."
-
-meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode1
-meVE.Apolytikion1.greekmelody = he.a.m1_en_US_barrett.heAU.ChorosAngelikos.greekname
-meVE.Apolytikion1.melody = he.a.m1_en_US_barrett.heAU.ChorosAngelikos.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
 
 meMA.C1.acrostic.title = "Canon for the Apostles."
 meMA.C1.acrostic.notice1 = ""
@@ -236,13 +210,6 @@ meMA.Ode6C1T.melody = he.h.m3_en_US_barrett.heHE.AvyssosEschati.notmetered
 meMA.Ode6C1T.incipit = "O Bride of God, the…"
 meMA.Ode6C1T.text = "O Bride of God, the ark of the Law was an image of you, since received the Fullness of the divine Law, you gave Him birth in the flesh, after giving birth you remained ever virgin, just as you were before giving birth."
 
-meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode2
-meMA.Kontakion1.greekmelody = he.a.m2_en_US_barrett.heAU.TaAnoZiton.greekname
-meMA.Kontakion1.melody = he.a.m2_en_US_barrett.heAU.TaAnoZiton.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode3
 meMA.Ode7C1H.greekmelody = he.h.m3_en_US_barrett.heHE.ToPrinEikoni.greekname
@@ -350,14 +317,3 @@ meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode3
 meMA.Ode9C1T.melody = he.h.m3_en_US_barrett.heHE.TinEnVatoKaiPyri.notmetered
 meMA.Ode9C1T.incipit = "O immaculate and laudable Virgin…"
 meMA.Ode9C1T.text = "O immaculate and laudable Virgin, you were like tongs that carry flame, for you received in your womb the spiritual Coal that burns up our passions, enlightens our souls, and shines light on the darkness of idolatry."
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_barrett.media.key
-
-meLI.Megalynarion.text = ""
-

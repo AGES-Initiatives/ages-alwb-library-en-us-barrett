@@ -1,59 +1,5 @@
 A_Resource_Whose_Name = me.m04.d06_en_US_barrett
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera01.greekmelody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.greekname
-meVE.Stichera01.melody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.SticTheotokion.greekmelody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.greekname
-meVE.SticTheotokion.melody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.greekname
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.heAU.KyrieEiKaiKritirio.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode3
-meVE.Apolytikion1.greekmelody = he.a.m3_en_US_barrett.heAU.TinOraiotita.greekname
-meVE.Apolytikion1.melody = he.a.m3_en_US_barrett.heAU.TinOraiotita.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -249,13 +195,6 @@ meMA.Ode6C1T.melody = he.h.m6_en_US_barrett.heHE.TouViouTinThalassan.notmetered
 meMA.Ode6C1T.incipit = "O all-pure Lady, who gave…"
 meMA.Ode6C1T.text = "O all-pure Lady, who gave birth to the Lord Pilot for humanity, calm the awful and shifting storm of my passions, and give peace and quiet to my heart."
 
-meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Kontakion1.greekmelody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.greekname
-meMA.Kontakion1.melody = he.a.m4_en_US_barrett.heAU.EpefanisSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode6
 meMA.Ode7C1H.greekmelody = he.h.m6_en_US_barrett.heHE.DrosovolonMenTinKaminon.greekname
@@ -363,14 +302,3 @@ meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode6
 meMA.Ode9C1T.melody = he.h.m6_en_US_barrett.heHE.TheonAnthropois.notmetered
 meMA.Ode9C1T.incipit = "O pure Virgin, your power…"
 meMA.Ode9C1T.text = "O pure Virgin, your power and your grace make me strong, and so I dedicate a song to you with all my heart. I entreat you to receive it, and grant to me in return the most luminous grace of your immaculate treasuries, O blessed of God."
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_barrett.media.key
-
-meLI.Megalynarion.text = ""
-

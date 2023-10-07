@@ -1,59 +1,5 @@
 A_Resource_Whose_Name = me.m04.d04_en_US_barrett
 
-meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meDA.commemoration.full = "" //full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" //for use in petitions and dismissal
-meDA.insert2 = "" //for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.Stichera01.greekmelody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.greekname
-meVE.Stichera01.melody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.Stichera02.melody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.Stichera03.melody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.SticTheotokion.greekmelody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.greekname
-meVE.SticTheotokion.melody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.notmetered
-meVE.SticTheotokion.incipit = "…"
-meVE.SticTheotokion.text = ""
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode2
-meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.greekname
-meVE.SticStavrotheotokion.melody = he.a.m2_en_US_barrett.heAU.OteEkTouXylou.notmetered
-meVE.SticStavrotheotokion.incipit = "…"
-meVE.SticStavrotheotokion.text = ""
-
-meVE.Apolytikion1.poet = //poets_en_US_barrett.Gerasimou
-meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode4
-meVE.Apolytikion1.greekmelody = he.a.m4_en_US_barrett.heAU.TachyProkatalave.greekname
-meVE.Apolytikion1.melody = he.a.m4_en_US_barrett.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion1.incipit = "…"
-meVE.Apolytikion1.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -130,16 +76,6 @@ meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_US_barrett.heAU.TinOraiotita.greekna
 meMA.Ode3Kathisma1.melody = he.a.m3_en_US_barrett.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma1.incipit = "O father George, you desired…"
 meMA.Ode3Kathisma1.text = "O father George, you desired Christ who is greatly beautiful while despising fleshly passions, and although you dwelt on earth, you lived the holy angelic life. And so we commemorate your repose in holiness, and we all venerate the shrine of your relics. From there you bring healings to us who now honor you with longing."
-
-meMA.Ode3KathismaT.mode = miscellanea_en_US_barrett.misc.Mode3
-meMA.Ode3KathismaT.melody = he.a.m3_en_US_barrett.heAU.TinOraiotita.notmetered
-meMA.Ode3KathismaT.incipit = "…"
-meMA.Ode3KathismaT.text = //oc.m3.d2_gr_GR_cog.ocMA.Kathisma33.text "O Theotokos, the Heavens rejoiced with reverential fear, and those dwelling on earth were glad with ineffable love, when that immaculate and holy voice spoke to you. For there was one festival for both of these, even when the first-made man was rescued from the chains of death. And so, with the Angel we cry to you: Rejoice, O Full of Grace."
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_barrett.misc.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_US_barrett.heAU.TinOraiotita.notmetered
-meMA.Ode3KathismaSt.incipit = "…"
-meMA.Ode3KathismaSt.text = //oc.m3.d4_en_US_barrett.ocMA.Kathisma23.text "O Christ, when Your immaculate and virgin Mother saw You hanging lifeless on the Tree, she wept and lamented as a mother and spoke to You sorrowfully: What has this ungrateful and lawless mob of Judeans given You in return for the great and plentiful gifts which you gave them, my Divine Son? I praise Your most godly condescension.."
 
 meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -243,13 +179,6 @@ meMA.Ode6C1T.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "O Ever-virgin Mother, I set…"
 meMA.Ode6C1T.text = "O Ever-virgin Mother, I set the hopes of my salvation on you, and I believe you are the sure and unshakeable defender of my life."
 
-meMA.Kontakion1.poet = //poets_en_US_barrett.Gerasimou
-meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode3
-meMA.Kontakion1.greekmelody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.greekname
-meMA.Kontakion1.melody = he.a.m3_en_US_barrett.heAU.IParthenosSimeron.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode7C1H.greekmelody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.greekname
@@ -345,14 +274,3 @@ meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_US_barrett.heHE.TonEkTheouTheonLogon.notmetered
 meMA.Ode9C1T.incipit = "O all-hymned Virgin, you alone…"
 meMA.Ode9C1T.text = "O all-hymned Virgin, you alone bore to the incarnate Word who previously had no flesh for the rebirth and salvation of all mortals, since He is God of God; and so we the faithful magnify you with hymns."
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.MM.CommunionHymn.text = properties_en_US_barrett.media.key
-
-meLI.Megalynarion.text = ""
-

@@ -1,63 +1,5 @@
 A_Resource_Whose_Name = me.m07.d04_en_US_barrett 
 
-meDA.date = ""
-meDA.commemoration.full = "" // full title of day
-meDA.commemoration.first = ""
-meDA.commemoration.first_short = ""
-meDA.commemoration.first_title = ""
-meDA.commemoration.first_name = ""
-meDA.commemoration.second_title = ""
-meDA.commemoration.second_name = ""
-meDA.insert1 = "" // for use in petitions and dismissal
-meDA.insert2 = "" // for use in petitions and dismissal
-meDA.note = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera01.greekmelody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.greekname
-meVE.Stichera01.melody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.notmetered
-meVE.Stichera01.incipit = "…"
-meVE.Stichera01.text = ""
-
-meVE.Stichera02.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera02.melody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.notmetered
-meVE.Stichera02.incipit = "…"
-meVE.Stichera02.text = ""
-
-meVE.Stichera03.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Stichera03.melody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.notmetered
-meVE.Stichera03.incipit = "…"
-meVE.Stichera03.text = ""
-
-meVE.SticTheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.SticTheotokion.greekmelody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.greekname
-meVE.SticTheotokion.melody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.notmetered
-meVE.SticTheotokion.incipit = //me.m07.d03_en_US_barrett.meVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = //me.m07.d03_en_US_barrett.meVE.SticTheotokion.text
-
-meVE.SticStavrotheotokion.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.SticStavrotheotokion.greekmelody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.greekname
-meVE.SticStavrotheotokion.melody = he.a.m8_en_US_barrett.heAU.TiYmasKalesomen.notmetered
-meVE.SticStavrotheotokion.incipit = //me.m06.d18_en_US_barrett.meVE.SticStavrotheotokion.incipit
-meVE.SticStavrotheotokion.text = //me.m06.d18_en_US_barrett.meVE.SticStavrotheotokion.text
-
-meVE.Apolytikion1.mode = miscellanea_en_US_barrett.misc.Mode8
-meVE.Apolytikion1.melody = //he.ga_en_US_barrett.OrthodoxiasOdigeH.notmetered
-meVE.GeneralApolytikion1.name = ""
-
-meVE.Apolytikion2.poet = //poets_en_US_barrett.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_US_barrett.misc.Mode5
-meVE.Apolytikion2.greekmelody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.greekname
-meVE.Apolytikion2.melody = he.a.m5_en_US_barrett.heAU.TonSynanarchonLogon.notmetered
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
-
 meMA.C1.acrostic.title = "Canon for the Saint."
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
@@ -132,11 +74,6 @@ meMA.Ode3KathismaT.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.incipit = me.m07.d01_en_US_barrett.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.text = me.m07.d01_en_US_barrett.meMA.Ode3KathismaT.text
-
-meMA.Ode3KathismaSt.mode = miscellanea_en_US_barrett.misc.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaSt.incipit = //me.m01.d24_en_US_barrett.meMA.Ode3KathismaSt.incipit
-meMA.Ode3KathismaSt.text = //me.m01.d24_en_US_barrett.meMA.Ode3KathismaSt.text
 
 meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode5
@@ -226,12 +163,6 @@ meMA.Ode6H.melody = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.melody
 meMA.Ode6H.incipit = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.incipit
 meMA.Ode6H.text = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.text
 
-meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode2
-meMA.Kontakion1.greekmelody = he.a.m2_en_US_barrett.heAU.TaAnoZiton.greekname
-meMA.Kontakion1.melody = he.a.m2_en_US_barrett.heAU.TaAnoZiton.notmetered
-meMA.Kontakion1.incipit = "…"
-meMA.Kontakion1.text = ""
-
 meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode7C11.greekmelody = he.h.m5_en_US_barrett.heHE.OYperypsoumenos.greekname
@@ -320,11 +251,3 @@ meMA.Ode9H.greekmelody = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.greekname
 meMA.Ode9H.melody = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.melody
 meMA.Ode9H.incipit = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.incipit
 meMA.Ode9H.text = he.h.m5_en_US_barrett.heHE.IsaiaChoreve.text
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.Megalynarion.text = ""
