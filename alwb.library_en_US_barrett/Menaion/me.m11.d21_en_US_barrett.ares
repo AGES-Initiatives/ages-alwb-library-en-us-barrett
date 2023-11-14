@@ -1,0 +1,722 @@
+A_Resource_Whose_Name = me.m11.d21_en_US_barrett
+
+meMA.Ode1C1H.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.greekname
+meMA.Ode1C1H.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.melody
+meMA.Ode1C1H.incipit = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.incipit
+meMA.Ode1C1H.text = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.text
+
+meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.greekname
+meMA.Ode1C11.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C11.incipit = "…"
+meMA.Ode1C11.text = ""
+
+meMA.Ode1C12.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode1C12.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C12.incipit = "…"
+meMA.Ode1C12.text = ""
+
+meMA.Ode1C13.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode1C13.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C13.incipit = "…"
+meMA.Ode1C13.text = ""
+
+meMA.Ode1C14.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode1C14.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C14.incipit = "…"
+meMA.Ode1C14.text = ""
+
+meMA.Ode1C21.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.greekname
+meMA.Ode1C21.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C21.incipit = "…"
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C22.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C22.incipit = "…"
+meMA.Ode1C22.text = ""
+
+meMA.Ode1C23.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C23.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C23.incipit = "…"
+meMA.Ode1C23.text = ""
+
+meMA.Ode1C24.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C24.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C24.incipit = "…"
+meMA.Ode1C24.text = ""
+
+meMA.Ode1C25.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C25.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C25.incipit = "…"
+meMA.Ode1C25.text = ""
+
+meMA.Ode1C26.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C26.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C26.incipit = "…"
+meMA.Ode1C26.text = ""
+
+meMA.Ode1C2Tr.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C2Tr.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C2Tr.incipit = "…"
+meMA.Ode1C2Tr.text = ""
+
+meMA.Ode1C2T.ode = miscellanea_en_US_barrett.misc.Ode1
+meMA.Ode1C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode1C2T.melody = he.h.m1_en_US_barrett.heHE.OdinEpinikion.name
+meMA.Ode1C2T.incipit = "…"
+meMA.Ode1C2T.text = ""
+
+meMA.Ode3C1H.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.greekname
+meMA.Ode3C1H.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.melody
+meMA.Ode3C1H.incipit = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.incipit
+meMA.Ode3C1H.text = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.text
+
+meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.greekname
+meMA.Ode3C11.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C11.incipit = "The Temple is now…"
+meMA.Ode3C11.text = "The Temple is now a hall for marriage * a chamber most fitting and most fair * receiving now the Virgin Pure * the living Bridal Chamber of God * the spotless and all blameless one * who shines more brightly than all the world."
+
+meMA.Ode3C12.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3C12.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C12.incipit = "…"
+meMA.Ode3C12.text = "King David is leaping now in gladness, * he leads the dance, rejoicing with us all * he calls to you, \"My fairest Queen * adorned in many-colored dress! * O all-pure Virgin undefiled * in the Temple before God the King!\""
+
+meMA.Ode3C13.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3C13.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C13.incipit = "…"
+meMA.Ode3C13.text = "The ancient curse came from Eve descending * upon the human race; and yet from Eve * our restoration to that state * of incorruption flourishes now: * Today God’s Mother is brought forth * into the Temple, the house of God."
+
+meMA.Ode3C14.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3C14.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C14.incipit = "…"
+meMA.Ode3C14.text = ""
+
+meMA.Ode3C21.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.greekname
+meMA.Ode3C21.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C21.incipit = "Let us who love the feasts…"
+meMA.Ode3C21.text = "Let us who love the feasts now celebrate; * let us all in spirit sing hymns of praise * as we exult and raise our song for the holy feast on this day * to the Daughter of our King and Lord; * the Mother of our one God."
+
+meMA.Ode3C22.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C22.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C22.incipit = "…"
+meMA.Ode3C22.text = "Today, O Joachim, be overjoyed; * Anna, in your spirit be radiant, * for to the Lord you offer Mary, your daughter, but three years old, * as a pure victim for sacrifice, * all-holy and all-blameless."
+
+meMA.Ode3C23.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C23.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C23.incipit = "…"
+meMA.Ode3C23.text = ""
+
+meMA.Ode3C24.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C24.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C24.incipit = "…"
+meMA.Ode3C24.text = ""
+
+meMA.Ode3C25.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C25.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C25.incipit = "…"
+meMA.Ode3C25.text = ""
+
+meMA.Ode3C26.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C26.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C26.incipit = "…"
+meMA.Ode3C26.text = ""
+
+meMA.Ode3C27.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C27.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C27.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C27.incipit = "…"
+meMA.Ode3C27.text = ""
+
+meMA.Ode3C2Tr.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C2Tr.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C2Tr.incipit = "…"
+meMA.Ode3C2Tr.text = "We say the Father is Light, so the Son; * so also the Comforter, Light as well. * The holy Trinity shines forth as though from one most-dazzling Sun; * it divinely shines its light * upon our souls and it keeps them whole."
+
+meMA.Ode3C2T.ode = miscellanea_en_US_barrett.misc.Ode3
+meMA.Ode3C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode3C2T.melody = he.h.m1_en_US_barrett.heHE.StereothitoIKardiaMou.name
+meMA.Ode3C2T.incipit = "…"
+meMA.Ode3C2T.text = "The prophets spoke of you in ages past; * they called you the ark of great holiness, * they called you censer made of gold, and a table, and candlestick. * Virgin, Tabernacle holding God! * We offer you praise in song."
+
+meMA.Ode3Kathisma1.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_US_barrett.heAU.KateplagiIosif.greekname
+meMA.Ode3Kathisma1.melody = he.a.m4_en_US_barrett.heAU.KateplagiIosif.name
+meMA.Ode3Kathisma1.incipit = "…"
+meMA.Ode3Kathisma1.text = ""
+
+meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.greekname
+meMA.Ode4C1H.melody = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.melody
+meMA.Ode4C1H.incipit = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.incipit
+meMA.Ode4C1H.text = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.text
+
+meMA.Ode4C11.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.greekname
+meMA.Ode4C11.melody = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.name
+meMA.Ode4C11.incipit = "…"
+meMA.Ode4C11.text = "On this day the Temple and House of our God * takes in the immaculate shining Gate * through which none may pass, * ending rites required of old * by the law’s shadow, and cries out: * Truly has the truth appeared to those on earth!"
+
+meMA.Ode4C12.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode4C12.melody = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.name
+meMA.Ode4C12.incipit = "…"
+meMA.Ode4C12.text = "The overshadowed mountain that Habakkuk foresaw * and in times past proclaimed prophetically, * has come now to dwell * in the Temple’s holy place; * and there she blooms with virtues pure * and with her fair shadow veils all the earth."
+
+meMA.Ode4C13.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode4C13.melody = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.name
+meMA.Ode4C13.incipit = "…"
+meMA.Ode4C13.text = "Let us now together with the entire earth * behold these most wondrous occurrences, * these strange, marvelous events; * the Virgin eats from angels’ hands! * and is thus an image of God’s own grace. "
+
+meMA.Ode4C14.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode4C14.melody = he.h.m4_en_US_barrett.heHE.TinAnexichniaston.name
+meMA.Ode4C14.incipit = "…"
+meMA.Ode4C14.text = ""
+
+meMA.Ode4C21.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.greekname
+meMA.Ode4C21.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C21.incipit = "…"
+meMA.Ode4C21.text = "Isaiah of the prophets, now prophesy to us: * who is then the Virgin that conceives and bears a Son? * She is the one who comes forth from the root of Judah * born as she was from the great lineage of King David: * the most glorious fruit of a holy seed."
+
+meMA.Ode4C22.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C22.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C22.incipit = "…"
+meMA.Ode4C22.text = "O virgins wise and waiting, begin to sing your hymns;    * hold aloft your brilliant lamps to offer now your praise * of the pure Mother of God’s grand procession today; * she enters into the Lord’s own most holy Temple. * Celebrate with us this great holy feast!"
+
+meMA.Ode4C23.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C23.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C23.incipit = "…"
+meMA.Ode4C23.text = ""
+
+meMA.Ode4C24.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C24.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C24.incipit = "…"
+meMA.Ode4C24.text = ""
+
+meMA.Ode4C25.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C25.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C25.incipit = "…"
+meMA.Ode4C25.text = ""
+
+meMA.Ode4C26.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C26.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C26.incipit = "…"
+meMA.Ode4C26.text = ""
+
+meMA.Ode4C27.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C27.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C27.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C27.incipit = "…"
+meMA.Ode4C27.text = ""
+
+meMA.Ode4C2Tr.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C2Tr.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C2Tr.incipit = "…"
+meMA.Ode4C2Tr.text = "In rev’rence we now glorify our true and triune God, * who is undivided with three persons, one nature; * the ranks of angels and archangels sing his praises * for he is Lord and Master over all Creation. * We adore and worship him forever."
+
+meMA.Ode4C2T.ode = miscellanea_en_US_barrett.misc.Ode4
+meMA.Ode4C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode4C2T.melody = he.h.m1_en_US_barrett.heHE.EnPnevmatiProvlepon.name
+meMA.Ode4C2T.incipit = "…"
+meMA.Ode4C2T.text = "O pure and undefiled Virgin, pray unceasingly * and implore your Son and God whom you conceived in flesh * that he save us all, your servants who sing now this hymn, * from ev’ry snare of the adversary, the devil, * and from all temptations attacking us."
+
+meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.greekname
+meMA.Ode5C1H.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.melody
+meMA.Ode5C1H.incipit = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.incipit
+meMA.Ode5C1H.text = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.text
+
+meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.greekname
+meMA.Ode5C11.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C11.incipit = "…"
+meMA.Ode5C11.text = "Today the pure Virgin, the bright shining holy place of God * and the glorious offering is brought forth * and dedicated here in the temple of God, * and in ways which he alone can know * she becomes the the dwelling place * for our God, the true King of all."
+
+meMA.Ode5C12.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode5C12.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C12.incipit = "…"
+meMA.Ode5C12.text = "Beholding the beauty of your soul, O Virgin, all-immaculate, * Zachariah cried aloud with great faith: * you are Deliv’rance, you are the joy of us all! * You are Restoration, and for me, * the incomprehensible through you is comprehensible!"
+
+meMA.Ode5C13.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode5C13.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C13.incipit = "…"
+meMA.Ode5C13.text = "Your wonders are beyond what we can * understand, O Virgin pure! * Wonderful and strange is your birthgiving; * wondrous and strange is your maturation too, * awesome are all things concerning you, spotless and fair Bride of God, * and beyond mortal means to know."
+
+meMA.Ode5C14.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode5C14.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C14.incipit = "…"
+meMA.Ode5C14.text = ""
+
+meMA.Ode5C21.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.greekname
+meMA.Ode5C21.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C21.incipit = "…"
+meMA.Ode5C21.text = "Let us the faithful who believe rightly now form a most joyful choir, * let us gather with our lamps hand glorifying God’s own Mother; * she comes now before the Lord, * a sacrifice most fitting."
+
+meMA.Ode5C22.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C22.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C22.incipit = "…"
+meMA.Ode5C22.text = "O Lady, let the forefathers sing their praise joyfully on this day, * and let her who gave you birth now exult with your own holy father; * they bear fruit from their great faith, * and it is led to the Lord."
+
+meMA.Ode5C23.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C23.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C23.incipit = "…"
+meMA.Ode5C23.text = ""
+
+meMA.Ode5C24.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C24.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C24.incipit = "…"
+meMA.Ode5C24.text = ""
+
+meMA.Ode5C25.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C25.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C25.incipit = "…"
+meMA.Ode5C25.text = ""
+
+meMA.Ode5C26.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C26.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C26.incipit = "…"
+meMA.Ode5C26.text = ""
+
+meMA.Ode5C2Tr.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C2Tr.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C2Tr.incipit = "…"
+meMA.Ode5C2Tr.text = "Let us now glorify and bow down, off’ring fitting praise with our hymns * to the Godhead in three persons, one in nature, same in glory; * being before existence was, * and shall unto ages be."
+
+meMA.Ode5C2T.ode = miscellanea_en_US_barrett.misc.Ode5
+meMA.Ode5C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode5C2T.melody = he.h.m1_en_US_barrett.heHE.ToFaeinonIminExanateilon.name
+meMA.Ode5C2T.incipit = "…"
+meMA.Ode5C2T.text = "We have your intercession and pray’r, O pure Mother of God our King, * as a haven fair and unassailable rampart in troubles, * and we are kept safe from harm, * from ev’ry affliction dread."
+
+meMA.Ode6C1H.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.greekname
+meMA.Ode6C1H.melody = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.melody
+meMA.Ode6C1H.incipit = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.incipit
+meMA.Ode6C1H.text = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.text
+
+meMA.Ode6C11.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.greekname
+meMA.Ode6C11.melody = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.name
+meMA.Ode6C11.incipit = "…"
+meMA.Ode6C11.text = "With but a word God supports all things, * and in his mercy he has heard now the pray’r * his righteous children pray: * he has unbound them from barrenness * and giv’n to them our Lady, the cause of our great joy. "
+
+meMA.Ode6C12.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode6C12.melody = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.name
+meMA.Ode6C12.incipit = "…"
+meMA.Ode6C12.text = "Wanting the nations to be assured * that they could have salvation, the Lord chose one * unwedded who belonged * to the poor race of humanity * to signify renewal, and reconcile us all. "
+
+meMA.Ode6C13.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode6C13.melody = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.name
+meMA.Ode6C13.incipit = "…"
+meMA.Ode6C13.text = "You are a dwelling for God’s good grace, * O undefiled Lady, a treasure house * that stores mercy divine, * and that is most inexpressible. * Now you share in the temple’s joy, boundless for all time."
+
+meMA.Ode6C14.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode6C14.melody = he.h.m4_en_US_barrett.heHE.TinTheianTaftin.name
+meMA.Ode6C14.incipit = "…"
+meMA.Ode6C14.text = ""
+
+meMA.Ode6C21.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.greekname
+meMA.Ode6C21.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C21.incipit = "…"
+meMA.Ode6C21.text = "Come, o faithful, let us keep the pure Virgin’s holy feast * spirits lifted high, and singing her praises faithfully, for she truly * is well and truly holier than heav’n’s ranks."
+
+meMA.Ode6C22.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C22.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C22.incipit = "…"
+meMA.Ode6C22.text = "With our voices, let us praise the pure Mother of the Light; * let us sing our odes and hymns for today to us she is made manifest * while ent’ring into the holy Temple of God."
+
+meMA.Ode6C23.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C23.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C23.incipit = "…"
+meMA.Ode6C23.text = ""
+
+meMA.Ode6C24.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C24.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C24.incipit = "…"
+meMA.Ode6C24.text = ""
+
+meMA.Ode6C25.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C25.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C25.incipit = "…"
+meMA.Ode6C25.text = ""
+
+meMA.Ode6C26.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C26.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C26.incipit = "…"
+meMA.Ode6C26.text = ""
+
+meMA.Ode6C2Tr.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C2Tr.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C2Tr.incipit = "…"
+meMA.Ode6C2Tr.text = "Holy Father, Son, and Spirit of righteousness divine, * perfect Unity in three persons; Trinity and undivided still, * God, show your mercy to those who worship your pow’r."
+
+meMA.Ode6C2T.ode = miscellanea_en_US_barrett.misc.Ode6
+meMA.Ode6C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode6C2T.melody = he.h.m1_en_US_barrett.heHE.TonProfitinIonan.name
+meMA.Ode6C2T.incipit = "…"
+meMA.Ode6C2T.text = "He whom nothing can contain was contained in your pure womb, * undefiled and spotless Mother of God, from whom he has come forth in flesh. * Your Son is dual in nature, both God and man."
+
+meMA.Kontakion1.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_US_barrett.heAU.OYpsotheisEnToStavro.greekname
+meMA.Kontakion1.melody = he.a.m4_en_US_barrett.heAU.OYpsotheisEnToStavro.name
+meMA.Kontakion1.incipit = "…"
+meMA.Kontakion1.text = ""
+
+meMA.Oikos1.text = ""
+
+meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_US_barrett.heHE.OukElatrefsan.greekname
+meMA.Ode7C1H.melody = he.h.m4_en_US_barrett.heHE.OukElatrefsan.melody
+meMA.Ode7C1H.incipit = he.h.m4_en_US_barrett.heHE.OukElatrefsan.incipit
+meMA.Ode7C1H.text = he.h.m4_en_US_barrett.heHE.OukElatrefsan.text
+
+meMA.Ode7C11.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_US_barrett.heHE.OukElatrefsan.greekname
+meMA.Ode7C11.melody = he.h.m4_en_US_barrett.heHE.OukElatrefsan.name
+meMA.Ode7C11.incipit = "…"
+meMA.Ode7C11.text = "Behold spring’s exultant joy now lightens the universe and brings our souls and minds * a light most brilliant and pure * and grants to them an understanding through the grace of God, * for today we sing * our praises mystic’ly for her * who is God’s own spotless Mother."
+
+meMA.Ode7C12.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode7C12.melody = he.h.m4_en_US_barrett.heHE.OukElatrefsan.name
+meMA.Ode7C12.incipit = "…"
+meMA.Ode7C12.text = "Today let everything, ranks of Cherubim and Seraphim, the mortal hosts,* attend the Mother and Queen, * and let them raise their voices, singing loudly for the feast: * Joy ineffable, * humanity’s deliverance today enters the house of God!"
+
+meMA.Ode7C13.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode7C13.melody = he.h.m4_en_US_barrett.heHE.OukElatrefsan.name
+meMA.Ode7C13.incipit = "…"
+meMA.Ode7C13.text = "The written Law has passed and vanished into nothing like a shade, * and rays of grace now shine forth * at your all-hymned entry into the house of God, * and O Virgin pure, * and Mother all-immaculate, * your are blessed today forever."
+
+meMA.Ode7C14.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode7C14.melody = he.h.m4_en_US_barrett.heHE.OukElatrefsan.name
+meMA.Ode7C14.incipit = "…"
+meMA.Ode7C14.text = ""
+
+meMA.Ode7C21.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.greekname
+meMA.Ode7C21.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C21.incipit = "…"
+meMA.Ode7C21.text = "Exulting in the joy of the feast today, * we rightly honor Anna and Joachim, * singing our praise to the Virgin, the immaculate one."
+
+meMA.Ode7C22.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C22.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C22.incipit = "…"
+meMA.Ode7C22.text = "Let David in the Spirit now prophesy that virgins, daughter, shall be brought after you; * they shall be brought to the temple * to the Mother and Queen."
+
+meMA.Ode7C23.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C23.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C23.incipit = "…"
+meMA.Ode7C23.text = ""
+
+meMA.Ode7C24.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C24.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C24.incipit = "…"
+meMA.Ode7C24.text = ""
+
+meMA.Ode7C25.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C25.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C25.incipit = "…"
+meMA.Ode7C25.text = ""
+
+meMA.Ode7C26.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C26.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C26.incipit = "…"
+meMA.Ode7C26.text = ""
+
+meMA.Ode7C2Tr.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C2Tr.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C2Tr.incipit = "…"
+meMA.Ode7C2Tr.text = "Let us glorify the Trinity undivided, * praising the one Godhead with songs and hymns, * three persons -- Father, the Son, and Spirit: holy and one."
+
+meMA.Ode7C2T.ode = miscellanea_en_US_barrett.misc.Ode7
+meMA.Ode7C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode7C2T.melody = he.h.m1_en_US_barrett.heHE.IKaminosSotirEdrosizeto.name
+meMA.Ode7C2T.incipit = "…"
+meMA.Ode7C2T.text = "O Mother of God, pray to the Lord you bore, * that he will save the souls who now sing your praise; * for the Lord God, your dear Son, is the compassionate one."
+
+meMA.Ode8C1H.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_US_barrett.heHE.AkoueKori.greekname
+meMA.Ode8C1H.melody = he.h.m4_en_US_barrett.heHE.AkoueKori.melody
+meMA.Ode8C1H.incipit = he.h.m4_en_US_barrett.heHE.AkoueKori.incipit
+meMA.Ode8C1H.text = he.h.m4_en_US_barrett.heHE.AkoueKori.text
+
+meMA.Ode8C11.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_US_barrett.heHE.AkoueKori.greekname
+meMA.Ode8C11.melody = he.h.m4_en_US_barrett.heHE.AkoueKori.name
+meMA.Ode8C11.incipit = "…"
+meMA.Ode8C11.text = "Anna cries out on this day as she leads * the all-pure Temple to the house * of God, and she says most faithfully to the priest: * \"This child giv’n to me by God receive from me, * lead her now into the Temple of the Maker of all things and sing * to him with joy and cry out with a loud voice: * O all you works of the Lord, bless the Lord your God!\""
+
+meMA.Ode8C12.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode8C12.melody = he.h.m4_en_US_barrett.heHE.AkoueKori.name
+meMA.Ode8C12.incipit = "…"
+meMA.Ode8C12.text = "When he saw Anna with Spirit well-filled, * priest Zachariah said to her: * \"You bring to us the true Mother of Life, the one * whom prophets of God have called the Mother of God. * And how shall the Temple hold her in its walls? In wonder I cry out: * O all you works of the Lord, bless the Lord your God!\""
+
+meMA.Ode8C13.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode8C13.melody = he.h.m4_en_US_barrett.heHE.AkoueKori.name
+meMA.Ode8C13.incipit = "…"
+meMA.Ode8C13.text = "Anna replied to him with a clear voice: * \"I stand, beseeching the true God; * I call on him with my faith and my fervent pray’r * to take now the fruit of my travail joyfully. * I vowed after birth I would give her to him who gave her to me. * So therefore, joyfully leaping, I cry out: * O all you works of the Lord, bless the Lord your God!\""
+
+meMA.Ode8C14.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode8C14.melody = he.h.m4_en_US_barrett.heHE.AkoueKori.name
+meMA.Ode8C14.incipit = "…"
+meMA.Ode8C14.text = ""
+
+meMA.Ode8C15.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C15.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode8C15.melody = he.h.m4_en_US_barrett.heHE.AkoueKori.name
+meMA.Ode8C15.incipit = "…"
+meMA.Ode8C15.text = ""
+
+meMA.Ode8C16.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C16.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode8C16.melody = he.h.m4_en_US_barrett.heHE.AkoueKori.name
+meMA.Ode8C16.incipit = "…"
+meMA.Ode8C16.text = ""
+
+meMA.Ode8C21.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.greekname
+meMA.Ode8C21.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C21.incipit = "…"
+meMA.Ode8C21.text = "Today Joachim is bright with joy and celebrates, * and without reproval Anna offers to the Lord * the sacrifice giv’n her * as the angel foretold and as Anna promised: her holy, all-pure daughter."
+
+meMA.Ode8C22.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C22.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C22.incipit = "…"
+meMA.Ode8C22.text = "Saints David and Jesse now most joyfully exult * and Judah is filled to overflowing with good pride. * For from their root a branch * has sprung forth: the pure Virgin from whom our God, pre-eternal, is to be born."
+
+meMA.Ode8C23.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C23.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C23.incipit = "…"
+meMA.Ode8C23.text = ""
+
+meMA.Ode8C24.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C24.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C24.incipit = "…"
+meMA.Ode8C24.text = ""
+
+meMA.Ode8C25.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C25.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C25.incipit = "…"
+meMA.Ode8C25.text = ""
+
+meMA.Ode8C26.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C26.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C26.incipit = "…"
+meMA.Ode8C26.text = ""
+
+meMA.Ode8C2Tr.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C2Tr.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C2Tr.incipit = "…"
+meMA.Ode8C2Tr.text = "Now let the Thrice Holy Hymn be offered now in song * to the Father, the Son, and the all-Holy Spirit: God. * Indivisible Godhead and unbreakable Unity holding all that he made in his hand always."
+
+meMA.Ode8C2T.ode = miscellanea_en_US_barrett.misc.Ode8
+meMA.Ode8C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode8C2T.melody = he.h.m1_en_US_barrett.heHE.OnFrittousinAngeloi.name
+meMA.Ode8C2T.incipit = "…"
+meMA.Ode8C2T.text = "The one who has no beginning now begins to be: * the Word takes on flesh and is born from a Virgin Maid, * divine also human, * and as one all-compassionate he refashions his fallen sinful children."
+
+meMA.Ode9C1M01.incipit = "…"
+meMA.Ode9C1M01.text = ""
+meMA.Ode9C1M02.incipit = "…"
+meMA.Ode9C1M02.text = ""
+meMA.Ode9C1M03.incipit = "…"
+meMA.Ode9C1M03.text = ""
+meMA.Ode9C1M04.incipit = "…"
+meMA.Ode9C1M04.text = ""
+meMA.Ode9C1M05.incipit = "…"
+meMA.Ode9C1M05.text = ""
+meMA.Ode9C1M06.incipit = "…"
+meMA.Ode9C1M06.text = ""
+meMA.Ode9C1M07.incipit = "…"
+meMA.Ode9C1M07.text = ""
+
+meMA.Ode9C2M01.incipit = "…"
+meMA.Ode9C2M01.text = ""
+meMA.Ode9C2MTr.incipit = "…"
+meMA.Ode9C2MTr.text = ""
+meMA.Ode9C2MTh.incipit = "…"
+meMA.Ode9C2MTh.text = ""
+
+meMA.Ode9C1H.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C1H.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.greekname
+meMA.Ode9C1H.melody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.melody
+meMA.Ode9C1H.incipit = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.incipit
+meMA.Ode9C1H.text = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.text
+
+meMA.Ode9C11.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.greekname
+meMA.Ode9C11.melody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.name
+meMA.Ode9C11.incipit = "…"
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode9C12.melody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.name
+meMA.Ode9C12.incipit = "…"
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C13.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode9C13.melody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.name
+meMA.Ode9C13.incipit = "…"
+meMA.Ode9C13.text = ""
+
+meMA.Ode9C14.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode9C14.melody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.name
+meMA.Ode9C14.incipit = "…"
+meMA.Ode9C14.text = ""
+
+meMA.Ode9C15.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C15.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode9C15.melody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.name
+meMA.Ode9C15.incipit = "…"
+meMA.Ode9C15.text = ""
+
+meMA.Ode9C16.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C16.mode = miscellanea_en_US_barrett.misc.Mode4
+meMA.Ode9C16.melody = he.h.m4_en_US_barrett.heHE.OsEmpsychoTheouKivoto.name
+meMA.Ode9C16.incipit = "…"
+meMA.Ode9C16.text = ""
+
+meMA.Ode9C21.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C21.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.greekname
+meMA.Ode9C21.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C21.incipit = "…"
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C22.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C22.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C22.incipit = "…"
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C23.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C23.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C23.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C23.incipit = "…"
+meMA.Ode9C23.text = ""
+
+meMA.Ode9C24.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C24.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C24.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C24.incipit = "…"
+meMA.Ode9C24.text = ""
+
+meMA.Ode9C25.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C25.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C25.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C25.incipit = "…"
+meMA.Ode9C25.text = ""
+
+meMA.Ode9C26.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C26.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C26.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C26.incipit = "…"
+meMA.Ode9C26.text = ""
+
+meMA.Ode9C2Tr.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C2Tr.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C2Tr.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C2Tr.incipit = "…"
+meMA.Ode9C2Tr.text = ""
+
+meMA.Ode9C2T.ode = miscellanea_en_US_barrett.misc.Ode9
+meMA.Ode9C2T.mode = miscellanea_en_US_barrett.misc.Mode1
+meMA.Ode9C2T.melody = he.h.m1_en_US_barrett.heHE.TinFotoforonNefelin.name
+meMA.Ode9C2T.incipit = "…"
+meMA.Ode9C2T.text = ""
+
