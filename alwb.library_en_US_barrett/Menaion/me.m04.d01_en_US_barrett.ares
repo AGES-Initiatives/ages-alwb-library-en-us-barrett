@@ -24,14 +24,14 @@ meMA.Ode1C11.text = "O glorious Mary, since you have now found the illumination 
 meMA.Ode1C12.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode1C12.melody = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.notmetered
-meMA.Ode1C12.incipit = "Although the snake's schemes once…"
-meMA.Ode1C12.text = "Although the snake's schemes once slew your soul and you slipped and fell towards the pit of destruction with your deluded deeds, you chose better things and scorned worldly cares."
+meMA.Ode1C12.incipit = "Although the snake’s schemes once…"
+meMA.Ode1C12.text = "Although the snake’s schemes once slew your soul and you slipped and fell towards the pit of destruction with your deluded deeds, you chose better things and scorned worldly cares."
 
 meMA.Ode1C13.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_US_barrett.heHE.EnVythoKatestrose.notmetered
-meMA.Ode1C13.incipit = "You passionately stained your soul's…"
-meMA.Ode1C13.text = "You passionately stained your soul's original freedom and nobility with indecent thoughts, you wore the most foul garment of corruption, and you did not know your Creator's ineffable glory."
+meMA.Ode1C13.incipit = "You passionately stained your soul’s…"
+meMA.Ode1C13.text = "You passionately stained your soul’s original freedom and nobility with indecent thoughts, you wore the most foul garment of corruption, and you did not know your Creator’s ineffable glory."
 
 meMA.Ode1C14.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C14.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -68,8 +68,8 @@ meMA.Ode3C12.text = "You approached the tree of sin and were initiated into know
 meMA.Ode3C13.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode3C13.melody = he.h.m2_en_US_barrett.heHE.EnPetraMeTisPisteos.notmetered
-meMA.Ode3C13.incipit = "You yearned after the light's…"
-meMA.Ode3C13.text = "You yearned after the light's ineffable brightness; you scorned all worldly cares, and you ran towards immaterial divine vision, crying in faith: You are our God, and no one is righteous but You, O Lord Most High."
+meMA.Ode3C13.incipit = "You yearned after the light’s…"
+meMA.Ode3C13.text = "You yearned after the light’s ineffable brightness; you scorned all worldly cares, and you ran towards immaterial divine vision, crying in faith: You are our God, and no one is righteous but You, O Lord Most High."
 
 meMA.Ode3C1T.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -81,7 +81,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "O all-blessed one, you curtailed…"
-meMA.Ode3Kathisma1.text = "O all-blessed one, you curtailed the disobedience of fallen flesh with ascetic works, and you revealed your soul's courage; for you desired to see the Lord's Cross and changed your ways, crucifying yourself to the world and living a holy life. And so, you earnestly awakened your whole being to holy and unlimited zeal for the angels' blessed life. O renowned Mary, for this we faithfully honor your memory, and we ask that pardon of our trespasses may be granted in abundance at your intercessions with God."
+meMA.Ode3Kathisma1.text = "O all-blessed one, you curtailed the disobedience of fallen flesh with ascetic works, and you revealed your soul’s courage; for you desired to see the Lord’s Cross and changed your ways, crucifying yourself to the world and living a holy life. And so, you earnestly awakened your whole being to holy and unlimited zeal for the angels’ blessed life. O renowned Mary, for this we faithfully honor your memory, and we ask that pardon of our trespasses may be granted in abundance at your intercessions with God."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.notmetered
@@ -91,7 +91,7 @@ meMA.Ode3KathismaT.text = "I am bogged down in the mire of my sins; I have no co
 meMA.Ode3KathismaSt.mode = miscellanea_en_US_barrett.misc.Mode8
 meMA.Ode3KathismaSt.melody = he.a.m8_en_US_barrett.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaSt.incipit = "O Savior, Shepherd, and Lamb…"
-meMA.Ode3KathismaSt.text = "O Savior, Shepherd, and Lamb of God, when the pure Ewe saw you hanged on the Cross unjustly, she mourned and wept most bitterly: Woe is me! O most dearly beloved Child, what is this strange and fearful mystery that I see? I am gutted; I am too weak to groan; I cannot bear to see you delivered to death in this way. But, O Master and Sovereign Lord, take pity on a grieving mother's cries, and as you foretold, fill my heart with joy when you arise from the grave as the Almighty God."
+meMA.Ode3KathismaSt.text = "O Savior, Shepherd, and Lamb of God, when the pure Ewe saw you hanged on the Cross unjustly, she mourned and wept most bitterly: Woe is me! O most dearly beloved Child, what is this strange and fearful mystery that I see? I am gutted; I am too weak to groan; I cannot bear to see you delivered to death in this way. But, O Master and Sovereign Lord, take pity on a grieving mother’s cries, and as you foretold, fill my heart with joy when you arise from the grave as the Almighty God."
 
 meMA.Ode4C1H.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -129,7 +129,7 @@ meMA.Ode4C1T.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode4C1T.melody = he.h.m2_en_US_barrett.heHE.YmnoSeAkoi.notmetered
 meMA.Ode4C1T.incipit = "O all-pure Virgin, the one…"
-meMA.Ode4C1T.text = "O all-pure Virgin, the one who has given all things their being of his own accord is united to me in my very being by an indescribable will and God's incomparable provision. He came forth from you who bore flesh, and he entirely renews me."
+meMA.Ode4C1T.text = "O all-pure Virgin, the one who has given all things their being of his own accord is united to me in my very being by an indescribable will and God’s incomparable provision. He came forth from you who bore flesh, and he entirely renews me."
 
 meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -143,19 +143,19 @@ meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode5C11.greekmelody = he.h.m2_en_US_barrett.heHE.OFotismos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_US_barrett.heHE.OFotismos.notmetered
 meMA.Ode5C11.incipit = "O godly-minded Mary, you made…"
-meMA.Ode5C11.text = "O godly-minded Mary, you made your way to the divine path free of passions, figuratively departing this life. You crossed the Jordan's waters with longing and achieved unspeakable glory."
+meMA.Ode5C11.text = "O godly-minded Mary, you made your way to the divine path free of passions, figuratively departing this life. You crossed the Jordan’s waters with longing and achieved unspeakable glory."
 
 meMA.Ode5C12.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode5C12.melody = he.h.m2_en_US_barrett.heHE.OFotismos.notmetered
 meMA.Ode5C12.incipit = "O Mary, jewel of self-control…"
-meMA.Ode5C12.text = "O Mary, jewel of self-control, you had a courageous soul, you took on struggles, you fought steadfastly against the enemies' delusion, and you persevered with the strength of youth."
+meMA.Ode5C12.text = "O Mary, jewel of self-control, you had a courageous soul, you took on struggles, you fought steadfastly against the enemies’ delusion, and you persevered with the strength of youth."
 
 meMA.Ode5C13.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode5C13.melody = he.h.m2_en_US_barrett.heHE.OFotismos.notmetered
 meMA.Ode5C13.incipit = "O Mother, you shook off…"
-meMA.Ode5C13.text = "O Mother, you shook off your fragility with determination, you washed off the passions through self-control, you wandered in the wilderness as a divine meadow, and you rejoiced seeing your Creator's beauty."
+meMA.Ode5C13.text = "O Mother, you shook off your fragility with determination, you washed off the passions through self-control, you wandered in the wilderness as a divine meadow, and you rejoiced seeing your Creator’s beauty."
 
 meMA.Ode5C14.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C14.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -167,7 +167,7 @@ meMA.Ode5C1T.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode5C1T.melody = he.h.m2_en_US_barrett.heHE.OFotismos.notmetered
 meMA.Ode5C1T.incipit = "O Virgin, we know that…"
-meMA.Ode5C1T.text = "O Virgin, we know that you are the Sun of Glory's dawn, the King's bright chariot which the Son of the Most High is driving, and an ark of goodness that brings Christ into the world."
+meMA.Ode5C1T.text = "O Virgin, we know that you are the Sun of Glory’s dawn, the King’s bright chariot which the Son of the Most High is driving, and an ark of goodness that brings Christ into the world."
 
 meMA.Ode6C1H.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -181,13 +181,13 @@ meMA.Ode6C11.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode6C11.greekmelody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C11.incipit = "O all-blessed Mary, you were…"
-meMA.Ode6C11.text = "O all-blessed Mary, you were thoroughly enrapt with longing for Christ's appearance; you were strengthened by the Spirit, and you repelled the attacks of passions."
+meMA.Ode6C11.text = "O all-blessed Mary, you were thoroughly enrapt with longing for Christ’s appearance; you were strengthened by the Spirit, and you repelled the attacks of passions."
 
 meMA.Ode6C12.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode6C12.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C12.incipit = "You were illumined by the…"
-meMA.Ode6C12.text = "You were illumined by the beauty of your deeds, you crushed the rebellions of the shadow; and you darkened your enemies' faces with ascetic works."
+meMA.Ode6C12.text = "You were illumined by the beauty of your deeds, you crushed the rebellions of the shadow; and you darkened your enemies’ faces with ascetic works."
 
 meMA.Ode6C13.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -199,7 +199,7 @@ meMA.Ode6C1T.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode6C1T.melody = he.h.m2_en_US_barrett.heHE.EnAvyssoPtaismaton.notmetered
 meMA.Ode6C1T.incipit = "O all-blameless one, you are…"
-meMA.Ode6C1T.text = "O all-blameless one, you are the King's throne that is above the Heavens; for you contained in your own body his entire divine kingship."
+meMA.Ode6C1T.text = "O all-blameless one, you are the King’s throne that is above the Heavens; for you contained in your own body his entire divine kingship."
 
 meMA.Ode7C1H.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -283,13 +283,13 @@ meMA.Ode9C11.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode9C11.greekmelody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C11.melody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.notmetered
 meMA.Ode9C11.incipit = "O all-blessed Mary, you partook…"
-meMA.Ode9C11.text = "O all-blessed Mary, you partook of the Mysteries with longing, you were filled with glorious radiance, and you were assured to have your Bridegroom's ineffable grace. And so you were judged worthy of a most blessed and divine translation."
+meMA.Ode9C11.text = "O all-blessed Mary, you partook of the Mysteries with longing, you were filled with glorious radiance, and you were assured to have your Bridegroom’s ineffable grace. And so you were judged worthy of a most blessed and divine translation."
 
 meMA.Ode9C12.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode9C12.melody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.notmetered
 meMA.Ode9C12.incipit = "O God-bearer, you knew the…"
-meMA.Ode9C12.text = "O God-bearer, you knew the mystery of your departure, and you walked upon the waters while remaining dry. O all-venerable Mother, you were translated from the world, and now you have comprehended your Creator's inconceivable beauty and delight."
+meMA.Ode9C12.text = "O God-bearer, you knew the mystery of your departure, and you walked upon the waters while remaining dry. O all-venerable Mother, you were translated from the world, and now you have comprehended your Creator’s inconceivable beauty and delight."
 
 meMA.Ode9C13.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_US_barrett.misc.Mode2
@@ -301,7 +301,7 @@ meMA.Ode9C14.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C14.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode9C14.melody = he.h.m2_en_US_barrett.heHE.ITonProIliouFostira.notmetered
 meMA.Ode9C14.incipit = "O Mary and godly-minded Zosimas…"
-meMA.Ode9C14.text = "O Mary and godly-minded Zosimas, you richly enjoy God's rewards for your efforts and deed. Ask him to be gracious now to all of us and to grant our souls the forgiveness of sins."
+meMA.Ode9C14.text = "O Mary and godly-minded Zosimas, you richly enjoy God’s rewards for your efforts and deed. Ask him to be gracious now to all of us and to grant our souls the forgiveness of sins."
 
 meMA.Ode9C1T.ode = miscellanea_en_US_barrett.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_US_barrett.misc.Mode2

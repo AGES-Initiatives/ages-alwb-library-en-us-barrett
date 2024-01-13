@@ -191,7 +191,7 @@ meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode2
 meMA.Ode7C11.greekmelody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_US_barrett.heHE.EikonosChrysis.notmetered
 meMA.Ode7C11.incipit = "O Father George, you were…"
-meMA.Ode7C11.text = "O Father George, you were strengthened in your soul with Christ's power, you drove away the hordes of those that hated you with his power, and you brandished at them the Cross that protected you, as you sang: Blessed are You, O Lord our God, the God of our Fathers."
+meMA.Ode7C11.text = "O Father George, you were strengthened in your soul with Christ’s power, you drove away the hordes of those that hated you with his power, and you brandished at them the Cross that protected you, as you sang: Blessed are You, O Lord our God, the God of our Fathers."
 
 meMA.Ode7C12.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_barrett.misc.Mode2

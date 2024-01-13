@@ -12,19 +12,19 @@ meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode1C11.greekmelody = he.h.m5_en_US_barrett.heHE.IpponKaiAnavatin.greekname
 meMA.Ode1C11.melody = he.h.m5_en_US_barrett.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C11.incipit = "O righteous Andrew…"
-meMA.Ode1C11.text = "O righteous Andrew, you shook off sleep from your eyelids and prepared yourself through virtue to be the Master's radiant dwelling place, and in this way you became a dwelling place for God and you revealed divine things."
+meMA.Ode1C11.text = "O righteous Andrew, you shook off sleep from your eyelids and prepared yourself through virtue to be the Master’s radiant dwelling place, and in this way you became a dwelling place for God and you revealed divine things."
 
 meMA.Ode1C12.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode1C12.melody = he.h.m5_en_US_barrett.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C12.incipit = "O marvelous Andrew…"
-meMA.Ode1C12.text = "O marvelous Andrew, you struck up a most harmonious melody on your harp, you have made Christ's Church glad through your hymns which resound with the divine grace of the Holy Spirit."
+meMA.Ode1C12.text = "O marvelous Andrew, you struck up a most harmonious melody on your harp, you have made Christ’s Church glad through your hymns which resound with the divine grace of the Holy Spirit."
 
 meMA.Ode1C13.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode1C13.melody = he.h.m5_en_US_barrett.heHE.IpponKaiAnavatin.notmetered
 meMA.Ode1C13.incipit = "O all-wise Andrew…"
-meMA.Ode1C13.text = "O all-wise Andrew, the divinely written law persuaded you, and so you mortified the body's passions through asceticism, and as you sang divine songs, you gave wings to your mind by your overflowing love."
+meMA.Ode1C13.text = "O all-wise Andrew, the divinely written law persuaded you, and so you mortified the body’s passions through asceticism, and as you sang divine songs, you gave wings to your mind by your overflowing love."
 
 meMA.Ode1C1T.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_US_barrett.misc.Mode5
@@ -37,19 +37,19 @@ meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3C11.greekmelody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.greekname
 meMA.Ode3C11.melody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.notmetered
 meMA.Ode3C11.incipit = "O righteous Andrew…"
-meMA.Ode3C11.text = "O righteous Andrew, you directed your life with virtue, and since you were united to God by divine yearning, you were revealed as Christ's eloquent instrument; and endowed by the divine treasuries, you brightened the entire world with your melodies."
+meMA.Ode3C11.text = "O righteous Andrew, you directed your life with virtue, and since you were united to God by divine yearning, you were revealed as Christ’s eloquent instrument; and endowed by the divine treasuries, you brightened the entire world with your melodies."
 
 meMA.Ode3C12.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3C12.melody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.notmetered
 meMA.Ode3C12.incipit = "O righteous one…"
-meMA.Ode3C12.text = "O righteous one, you were filled with heavenly wisdom; for you opened your soul's mouth wide, and you clearly received as a sacred priest the full light-bearing radiance of the Three-Sun Brightness."
+meMA.Ode3C12.text = "O righteous one, you were filled with heavenly wisdom; for you opened your soul’s mouth wide, and you clearly received as a sacred priest the full light-bearing radiance of the Three-Sun Brightness."
 
 meMA.Ode3C13.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode3C13.melody = he.h.m5_en_US_barrett.heHE.OPixasEpOudenos.notmetered
 meMA.Ode3C13.incipit = "O righteous Father,…"
-meMA.Ode3C13.text = "O righteous Father, when you strengthened your soul's powers and tamed the flesh with asceticism, you fully became a brilliant star and delighted the Church with your Orthodox teachings and virtuosic melodies."
+meMA.Ode3C13.text = "O righteous Father, when you strengthened your soul’s powers and tamed the flesh with asceticism, you fully became a brilliant star and delighted the Church with your Orthodox teachings and virtuosic melodies."
 
 meMA.Ode3C1T.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_US_barrett.misc.Mode5
@@ -92,7 +92,7 @@ meMA.Ode4C13.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode4C13.melody = he.h.m5_en_US_barrett.heHE.TinTheianEnnoisas.notmetered
 meMA.Ode4C13.incipit = "O all-blessed Andrew, model…"
-meMA.Ode4C13.text = "O all-blessed Andrew, model of manhood, as a divine hierarch, you defended the Church like a shepherd and fended off the lions' attacks."
+meMA.Ode4C13.text = "O all-blessed Andrew, model of manhood, as a divine hierarch, you defended the Church like a shepherd and fended off the lions’ attacks."
 
 meMA.Ode4C14.ode = miscellanea_en_US_barrett.misc.Ode4
 meMA.Ode4C14.mode = miscellanea_en_US_barrett.misc.Mode5
@@ -117,13 +117,13 @@ meMA.Ode5C12.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode5C12.melody = he.h.m5_en_US_barrett.heHE.OAnavallomenos.notmetered
 meMA.Ode5C12.incipit = "O all-blessed Andrew, you were brilliant…"
-meMA.Ode5C12.text = "O all-blessed Andrew, you were brilliant with the Divine Spirit's glory. You gave all-holy praise to the choirs of the Saints, and now you rejoice with them."
+meMA.Ode5C12.text = "O all-blessed Andrew, you were brilliant with the Divine Spirit’s glory. You gave all-holy praise to the choirs of the Saints, and now you rejoice with them."
 
 meMA.Ode5C13.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode5C13.melody = he.h.m5_en_US_barrett.heHE.OAnavallomenos.notmetered
 meMA.Ode5C13.incipit = "O all-wise Andrew…"
-meMA.Ode5C13.text = "O all-wise Andrew, since you are now united to the Almighty, you behold the things of God with the spiritual faculties of your soul, not through the body's corruptible senses, nor with your imagination."
+meMA.Ode5C13.text = "O all-wise Andrew, since you are now united to the Almighty, you behold the things of God with the spiritual faculties of your soul, not through the body’s corruptible senses, nor with your imagination."
 
 meMA.Ode5C1T.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_US_barrett.misc.Mode5
@@ -142,7 +142,7 @@ meMA.Ode6C12.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode6C12.melody = he.h.m5_en_US_barrett.heHE.MainomeninKlydoni.notmetered
 meMA.Ode6C12.incipit = "O glorious Father…"
-meMA.Ode6C12.text = "O glorious Father, you bedecked your life with sacred adornment; for you soothed the passions' storm and came to safe harbor in the haven of a dispassionate life."
+meMA.Ode6C12.text = "O glorious Father, you bedecked your life with sacred adornment; for you soothed the passions’ storm and came to safe harbor in the haven of a dispassionate life."
 
 meMA.Ode6C13.ode = miscellanea_en_US_barrett.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_US_barrett.misc.Mode5
@@ -168,7 +168,7 @@ meMA.Ode7C11.mode = miscellanea_en_US_barrett.misc.Mode5
 meMA.Ode7C11.greekmelody = he.h.m5_en_US_barrett.heHE.OYperypsoumenos.greekname
 meMA.Ode7C11.melody = he.h.m5_en_US_barrett.heHE.OYperypsoumenos.notmetered
 meMA.Ode7C11.incipit = "O righteous Andrew,…"
-meMA.Ode7C11.text = "O righteous Andrew, you enriched your life splendid with your deeds so that you might behold the Saints' glory in the spirit, and thus you cried out: blessed are You, O God."
+meMA.Ode7C11.text = "O righteous Andrew, you enriched your life splendid with your deeds so that you might behold the Saints’ glory in the spirit, and thus you cried out: blessed are You, O God."
 
 meMA.Ode7C12.ode = miscellanea_en_US_barrett.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_US_barrett.misc.Mode5
