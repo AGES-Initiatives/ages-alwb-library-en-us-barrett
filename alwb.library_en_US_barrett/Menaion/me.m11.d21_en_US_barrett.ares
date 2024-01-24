@@ -2,33 +2,33 @@ A_Resource_Whose_Name = me.m11.d21_en_US_barrett
 
 meMA.Ode1C1H.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode1C1H.greekmelody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.greekname
-meMA.Ode1C1H.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.melody
-meMA.Ode1C1H.incipit = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.incipit
-meMA.Ode1C1H.text = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.text
+meMA.Ode1C1H.greekmelody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.greekname
+meMA.Ode1C1H.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.melody
+meMA.Ode1C1H.incipit = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.incipit
+meMA.Ode1C1H.text = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.text
 
 meMA.Ode1C11.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode1C11.greekmelody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.greekname
-meMA.Ode1C11.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C11.greekmelody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.greekname
+meMA.Ode1C11.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C12.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.name
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C13.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C14.ode = miscellanea_en_US_barrett.misc.Ode1
 meMA.Ode1C14.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode1C14.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMou_Eisodia.name
+meMA.Ode1C14.melody = he.h.m4_en_US_barrett.heHE.AnoixoToStomaMouEisodia.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
 
@@ -83,33 +83,33 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode3C1H.greekmelody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.greekname
-meMA.Ode3C1H.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.melody
-meMA.Ode3C1H.incipit = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.incipit
-meMA.Ode3C1H.text = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.text
+meMA.Ode3C1H.greekmelody = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.greekname
+meMA.Ode3C1H.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.melody
+meMA.Ode3C1H.incipit = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.incipit
+meMA.Ode3C1H.text = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.text
 
 meMA.Ode3C11.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode3C11.greekmelody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.greekname
-meMA.Ode3C11.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C11.greekmelody = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.greekname
+meMA.Ode3C11.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.name
 meMA.Ode3C11.incipit = "The Temple is now…"
 meMA.Ode3C11.text = "The Temple is now a hall for marriage * a chamber most fitting and most fair * receiving now the Virgin Pure * the living Bridal Chamber of God * the spotless and all blameless one * who shines more brightly than all the world."
 
 meMA.Ode3C12.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C12.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.name
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = "King David is leaping now in gladness, * he leads the dance, rejoicing with us all * he calls to you, “My fairest Queen * adorned in many-colored dress! * O all-pure Virgin undefiled * in the Temple before God the King!”"
 
 meMA.Ode3C13.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C13.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.name
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = "The ancient curse came from Eve descending * upon the human race; and yet from Eve * our restoration to that state * of incorruption flourishes now: * Today God’s Mother is brought forth * into the Temple, the house of God."
 
 meMA.Ode3C14.ode = miscellanea_en_US_barrett.misc.Ode3
 meMA.Ode3C14.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode3C14.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologous_Eisodia.name
+meMA.Ode3C14.melody = he.h.m4_en_US_barrett.heHE.TousSousYmnologousEisodia.name
 meMA.Ode3C14.incipit = "…"
 meMA.Ode3C14.text = ""
 
@@ -263,33 +263,33 @@ meMA.Ode4C2T.text = "O pure and undefiled Virgin, pray unceasingly * and implore
 
 meMA.Ode5C1H.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode5C1H.greekmelody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.greekname
-meMA.Ode5C1H.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.melody
-meMA.Ode5C1H.incipit = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.incipit
-meMA.Ode5C1H.text = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.text
+meMA.Ode5C1H.greekmelody = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.greekname
+meMA.Ode5C1H.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.melody
+meMA.Ode5C1H.incipit = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.incipit
+meMA.Ode5C1H.text = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.text
 
 meMA.Ode5C11.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode5C11.greekmelody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.greekname
-meMA.Ode5C11.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C11.greekmelody = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.greekname
+meMA.Ode5C11.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = "Today the pure Virgin, the bright shining holy place of God * and the glorious offering is brought forth * and dedicated here in the temple of God, * and in ways which he alone can know * she becomes the the dwelling place * for our God, the true King of all."
 
 meMA.Ode5C12.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C12.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.name
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = "Beholding the beauty of your soul, O Virgin, all-immaculate, * Zachariah cried aloud with great faith: * you are Deliv’rance, you are the joy of us all! * You are Restoration, and for me, * the incomprehensible through you is comprehensible!"
 
 meMA.Ode5C13.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C13.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.name
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = "Your wonders are beyond what we can * understand, O Virgin pure! * Wonderful and strange is your birthgiving; * wondrous and strange is your maturation too, * awesome are all things concerning you, spotless and fair Bride of God, * and beyond mortal means to know."
 
 meMA.Ode5C14.ode = miscellanea_en_US_barrett.misc.Ode5
 meMA.Ode5C14.mode = miscellanea_en_US_barrett.misc.Mode4
-meMA.Ode5C14.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympanta_Eisodia.name
+meMA.Ode5C14.melody = he.h.m4_en_US_barrett.heHE.ExestiTaSympantaEisodia.name
 meMA.Ode5C14.incipit = "…"
 meMA.Ode5C14.text = ""
 
